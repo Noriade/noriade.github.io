@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator>
+  <link href="https://www.noriade.com/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://www.noriade.com/" rel="alternate" type="text/html" />
+  <updated>2017-11-23T01:11:43+01:00</updated>
+  <id>https://www.noriade.com/</id>
+
+  
+    <title type="html">{“fr”=&amp;gt;”Hébergement web professionnel, Infogérance, Audit et Conseil - Noriade.com”, “en”=&amp;gt;”Web hosting, Outsourcing, Audit and Consulting - Noriade.com”}</title>
+  
+
+  
+    <subtitle>{&quot;fr&quot;=&gt;&quot;Noriade.com propose des solutions d'hébergement web sur mesure et d'infogérance pour les professionnels et les entreprises. Nos experts techniques peut également intervenir pour des missions d'audit et de conseil en sécurité, référencement, web marketing ou encore sur la gestion des réseaux sociaux&quot;, &quot;en&quot;=&gt;&quot;Noriade is a company specialized in professional high availability web hosting, outsourcing, web marketing, audit and consulting ( security, SEO, social networking and architecture...).&quot;}</subtitle>
+  
+
+  
+
+  
+  
+    <entry xml:lang="en">
+      <title type="html">Piwik Installation</title>
+      <link href="https://www.noriade.com/blog/2015-03-18-piwik-installation/" rel="alternate" type="text/html" title="Piwik Installation" />
+      <published>2015-03-18T00:00:00+01:00</published>
+      <updated>2015-03-18T00:00:00+01:00</updated>
+      <id>https://www.noriade.com/blog/piwik-installation</id>
+      <content type="html" xml:base="https://www.noriade.com/blog/2015-03-18-piwik-installation/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Blog" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry xml:lang="fr">
+      <title type="html">Mise à disposition de Piwik</title>
+      <link href="https://www.noriade.com/blog/2015-03-18-mise-a-dispo-piwik/" rel="alternate" type="text/html" title="Mise à disposition de Piwik" />
+      <published>2015-03-18T00:00:00+01:00</published>
+      <updated>2015-03-18T00:00:00+01:00</updated>
+      <id>https://www.noriade.com/blog/mise-a-dispo-piwik</id>
+      <content type="html" xml:base="https://www.noriade.com/blog/2015-03-18-mise-a-dispo-piwik/">&lt;p&gt;Nous proposons, depuis quelques jours, à nos clients qui le souhaitent, de pouvoir utiliser notre plateforme Piwik afin d’effectuer des mesures d’audience sur leurs sites internet et applications web.&lt;/p&gt;
+
+&lt;p&gt;Pour ceux qui ne connaissent pas encore, &lt;a title=&quot;Piwik&quot; href=&quot;http://piwik.org/&quot; target=&quot;_blank&quot;&gt;Piwik&lt;/a&gt; est un outil de mesure d’audience open source (gratuit donc). Le point fort de cette solution est l’importance attachée au respect de la vie privée et des données personnelles collectées. Piwik est notamment recommandé par la Commission nationale de l’informatique et des libertés (&lt;a title=&quot;CNIL&quot; href=&quot;http://www.cnil.fr/vos-obligations/sites-web-cookies-et-autres-traceurs/outils-et-codes-sources/la-mesure-daudience/&quot; target=&quot;_blank&quot;&gt;CNIL&lt;/a&gt;) ainsi que par l’organisme de protection de la vie privée en Allemagne (&lt;a title=&quot;ULD&quot; href=&quot;https://www.datenschutzzentrum.de/&quot; target=&quot;_blank&quot;&gt;ULD&lt;/a&gt;). C’est une alternative très crédible à Google Analytics.&lt;/p&gt;
+
+&lt;p&gt;N’hésitez pas à contacter notre équipe si vous souhaitez utiliser notre plateforme Piwik ou si vous avez des questions concernant son utilisation.&lt;/p&gt;
+
+&lt;p&gt;L’équipe de Noriade.com&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Blog" />
+      
+
+      
+
+      
+        <summary type="html">Nous proposons, depuis quelques jours, à nos clients qui le souhaitent, de pouvoir utiliser notre plateforme Piwik afin d’effectuer des mesures d’audience sur leurs sites internet et applications web.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry xml:lang="en">
+      <title type="html">Opening of our website</title>
+      <link href="https://www.noriade.com/blog/2015-03-12-website-opening/" rel="alternate" type="text/html" title="Opening of our website" />
+      <published>2015-03-12T00:00:00+01:00</published>
+      <updated>2015-03-12T00:00:00+01:00</updated>
+      <id>https://www.noriade.com/blog/website-opening</id>
+      <content type="html" xml:base="https://www.noriade.com/blog/2015-03-12-website-opening/">&lt;p&gt;Hello and welcome to our new website!&lt;/p&gt;
+
+&lt;p&gt;Noriade.com is available in two languages (English and French) and you will find information about the different services we offer and news about the company.&lt;/p&gt;
+
+&lt;p&gt;Some sections of the site are still under construction, the site will grow over time in terms of content and features.&lt;/p&gt;
+
+&lt;p&gt;An integrated chat on our site is available to answer your questions and requests. Don’t hesitate to give us your comments, suggestions and any bugs you may encounter while browsing or contact our team for more information about our services.&lt;/p&gt;
+
+&lt;p&gt;The team of Noriade.com&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Blog" />
+      
+
+      
+
+      
+        <summary type="html">Hello and welcome to our new website!</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry xml:lang="fr">
+      <title type="html">Ouverture de notre site internet</title>
+      <link href="https://www.noriade.com/blog/2015-03-12-ouverture-site-internet/" rel="alternate" type="text/html" title="Ouverture de notre site internet" />
+      <published>2015-03-12T00:00:00+01:00</published>
+      <updated>2015-03-12T00:00:00+01:00</updated>
+      <id>https://www.noriade.com/blog/ouverture-site-internet</id>
+      <content type="html" xml:base="https://www.noriade.com/blog/2015-03-12-ouverture-site-internet/">&lt;p&gt;Bonjour à tous et à toutes et bienvenue sur notre nouveau site internet !&lt;/p&gt;
+
+&lt;p&gt;Noriade.com est disponible en deux langues (Français et Anglais) et vous permettra de retrouver des informations sur les différentes prestations que nous proposons ainsi que sur l’actualité de l’entreprise.&lt;/p&gt;
+
+&lt;p&gt;Certaines sections du site étant encore en cours de construction, le site s’étoffera au fil du temps, aussi bien en terme de contenu que de fonctionnalités.&lt;/p&gt;
+
+&lt;p&gt;Un chat intégré sur notre site est à votre disposition afin de répondre à toutes vos questions et sollicitations. N’hésitez pas donc pas à nous remonter vos commentaires, suggestions et éventuels bugs que vous pourrez rencontrer lors de votre navigation ou prendre contact avec notre équipe pour tout complément d’information sur nos services ou toute demande de devis.&lt;/p&gt;
+
+&lt;p&gt;Bonne visite !&lt;/p&gt;
+
+&lt;p&gt;L’équipe de Noriade.com&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Blog" />
+      
+
+      
+
+      
+        <summary type="html">Bonjour à tous et à toutes et bienvenue sur notre nouveau site internet !</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

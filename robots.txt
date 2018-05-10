@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /administration/
+Disallow: /beta/
+Disallow: /dev/
+Disallow: /phpmyadmin/
+Disallow: /pma/
+Disallow: /help/
+Disallow: /aide/
+Disallow: /settings/
+Disallow: /config/
+Disallow: /configuration/
+Disallow: /mail/
+Disallow: /bdd/
+
+Sitemap: https://www.noriade.com/sitemap.xml
