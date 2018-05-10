@@ -1,0 +1,41 @@
+
+    <!-- Services Section -->
+    <section id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>{{ site.content[page.lang].services }}</h2>
+                    <hr class="star-primary">
+                </div>
+            </div>
+            <div class="row" align="center">
+                {% assign services=site.services | where:"lang", page.lang %}
+                {% for service in services %}
+                {% if page.ref == "services" %}
+                <div class="col-lg-6">
+                    <a href="{{ service.permalink }}">
+                        <!-- <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-2x"></i>
+                            </div>
+                        </div> -->
+                        <img src="/img/services/{{ service.img }}" class="img-responsive" alt="{{ service.alt }}" title="{{ service.linktitle }}">
+                        <h3>{{ service.title }}</h3><br>
+                    </a>
+                </div>
+                {% else %}
+                    <div class="col-sm-3 portfolio-item">
+                        <a href="#servicesModal-{{ service.modal-id }}" class="portfolio-link" data-toggle="modal">
+                            <!-- <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-2x"></i>
+                                </div>
+                            </div> -->
+                            <img src="/img/services/thumb_{{ service.img }}" class="img-responsive" alt="{{ service.alt }}" title="{{ service.linktitle }}">
+                        </a>
+                    </div>
+                {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    </section>

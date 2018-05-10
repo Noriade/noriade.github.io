@@ -1,0 +1,68 @@
+   <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <!-- <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div> -->
+
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li><img class="img-responsive" src="/img/icon-Noriade-50x50.png" alt="" width="50"></li>
+                    {% if page.ref == "home" %}
+                    {% for menuhome in site.navhome[page.lang] %}
+                    {% if menuhome[1].dropdown == "yes" %}
+                    <li class="nav-item dropdown">
+                      <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">{{ menuhome[1].name }}</a>
+                      <div class="dropdown-menu">
+                        {% for dropdown in menuhome[1].dropdownlinks %}
+                      <small>&nbsp;<a class="dropdown-item" href="{{ dropdown[1].url }}">{{ dropdown[1].name }}</a></small>
+                        {% endfor %}
+                      </div>
+                    </li>
+                    {% else %}
+                    <li class="page-scroll"><a href="{{ menuhome[1].url }}">{{ menuhome[1].name }}</a></li>
+                    {% endif %}
+                    {% endfor %}
+                    {% else %}
+                    {% for menu in site.nav[page.lang] %}
+                    {% if menu[1].dropdown == "yes" %}
+                    <li class="nav-item dropdown">
+                      <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">{{ menu[1].name }}</a>
+                      <div class="dropdown-menu">
+                        {% for dropdown in menu[1].dropdownlinks %}
+                        <small>&nbsp;<a class="dropdown-item" href="{{ dropdown[1].url }}">{{ dropdown[1].name }}</a></small>
+                        {% endfor %}
+                      </div>
+                    </li>
+                    {% else %}
+                    <li><a href="{{ menu[1].url }}">{{ menu[1].name }}</a></li>
+                    {% endif %}
+                    {% endfor %}
+                    {% endif %}
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+                    {% for post in posts %}
+                    <li>
+                      <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+                    </li>
+                    {% endfor %}
+
+                    {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+                    {% for page in pages %}
+                    <li>
+                      <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>

@@ -1,0 +1,258 @@
+# Site settings
+title:
+  fr: Hébergement web professionnel, Infogérance, Audit et Conseil - Noriade.com
+  en: Web hosting, Outsourcing, Audit and Consulting - Noriade.com
+email: contact@noriade.com
+url: https://www.noriade.com
+description:
+  fr: "Noriade.com propose des solutions d'hébergement web sur mesure et d'infogérance pour les professionnels et les entreprises. Nos experts techniques peut également intervenir pour des missions d'audit et de conseil en sécurité, référencement, web marketing ou encore sur la gestion des réseaux sociaux"
+  en: "Noriade is a company specialized in professional high availability web hosting, outsourcing, web marketing, audit and consulting ( security, SEO, social networking and architecture...)."
+keywords:
+  fr: "Hébergement, web, professionnel, infogérance, conseil, audit, opensource, linux, freelance, prestataire, marketing, réseaux sociaux, sysadmin, administration système."
+  en: "Web hosting, outsourcing, consulting, audit, freelance, marketing, social networks, sysadmin, linux, opensource, system administration, dedicated server."
+meta_author: Noriade SAS
+
+# Google webmaster tools
+google_verify: 6K4t91bMQsnpLs_nO9R76zqvTnA11ZsXU6IbnDAychA
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify: 0F6FA9658FFB43EBB0722FF8347450DA
+
+yandex_verify: 97ec25bdbae361c3
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: noriade
+
+exclude: ["Gemfile", "Gemfile.lock", "README.md"]
+encoding: "utf-8"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 339cd3 #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Noriade
+  #location: Location
+  #social: Around the Web
+  #credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/noriade
+  - title: facebook
+    url: https://www.facebook.com/noriade.fr/
+  - title: linkedin
+    url: https://www.linkedin.com/company/5394942/
+  - title: xing
+    url: https://www.xing.com/companies/noriade
+  - title: google-plus
+    url: https://plus.google.com/b/108200533659989074403/
+  - title: slack
+    url: https://noriade.slack.com/
+  - title: github
+    url: http://github.com/noriade
+  # - title: amazon
+  #   url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  fr:
+    - line: Noriade SAS
+    - line: 25 rue de Ponthieu
+    - line: 75008 Paris
+    - line:
+    - line: +33 (0)1 85 09 06 13
+  en:
+    - line: Noriade SAS
+    - line: 25 rue de Ponthieu
+    - line: 75008 Paris
+    - line: France
+    - line:
+    - line: +33 (0)1 85 09 06 13
+
+# Footer navigation content
+footnav:
+  fr: '<ul align="left"><li><a href="/mentions-legales/">Mentions légales</a></li><li><a href="/partenaires/">Partenaires</a></li><li>Plan du site</li></ul>'
+  en: '<ul align="left"><li>Terms & Conditions</li><li>Partners</li><li>Site Map</li></ul>'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+plugins_dir: _plugins
+# Plugins
+plugins:
+#  - jekyll-analytics
+  - jekyll-twitter-plugin
+  - jekyll-email-protect
+
+# Plugins Configuration
+#jekyll_analytics:
+#  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+#    id: UA-18089719-1          # Required - replace with your tracking id
+#    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+
+include: ["_pages", "_services"]
+
+# Collections
+collections:
+  - services
+  - references
+
+# Defaults settings
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "posts"
+  - scope:
+      path: "_services"
+      type: "pages"
+    values:
+      layout: "pages"
+  - scope:
+      path: "_pages"
+      type: "pages"
+    values:
+      layout: "pages"
+
+
+# Translation
+# Navigation
+nav:
+  fr:
+    home:
+      name: "Accueil"
+      url: "/"
+    services:
+      name: "Services"
+      url: "/services/"
+      dropdown: "no"
+      dropdownlinks:
+        link1:
+          name: "Hébergement web"
+          url: "/services/hebergement-web/"
+          alt:
+          title:
+        link2:
+          name: "Infogérance"
+        link3:
+          name: "Conseil & Audit"
+        link4:
+          name: "Marketing Web"
+    contact:
+      name: "Contact"
+      url: "/contact/"
+  en:
+    home:
+      name: "Home"
+      url: "/en/"
+    services:
+      name: "Services"
+      url: "/en/services/"
+      dropdown: "no"
+      dropdownlinks:
+        link1:
+          name: "Web Hosting"
+          url: "/en/services/web-hosting/"
+          alt:
+          title:
+    contact:
+      name: "Contact"
+      url: "/en/contact/"
+navhome:
+  fr:
+    home:
+      name: "Accueil"
+      url: "/"
+    services:
+      name: "Services"
+      url: "#services"
+      dropdown: "no"
+      dropdownlinks:
+        link1:
+          name: "Hébergement web"
+          url: "/services/hebergement-web/"
+          alt:
+          title:
+        link2:
+          name: "Infogérance"
+        link3:
+          name: "Conseil & Audit"
+        link4:
+          name: "Marketing Web"
+    contact:
+      name: "Contact"
+      url: "#contact"
+  en:
+    home:
+      name: "Home"
+      url: "/en/"
+    services:
+      name: "Services"
+      url: "#services"
+      dropdown: "no"
+      dropdownlinks:
+        link1:
+          name: "Web Hosting"
+          url: "/en/services/web-hosting/"
+          alt:
+          title:
+    contact:
+      name: "Contact"
+      url: "#contact"
+# Content
+content:
+  fr:
+    contact: "Contactez nous"
+    contactname: "Nom"
+    contactnamereqmsg: "Veuillez entrer votre nom."
+    contactemail: "Adresse email"
+    contactemailreqmsg: "Veuillez entrer votre adresse email."
+    contactmsg: "Message"
+    contactmsgreqmsg: "Veuillez entrer votre message."
+    contactbutton: "Envoyer"
+    contactformtitle: "Formulaire de contact"
+    services: "Services"
+    about: "À propos"
+    aboutcontent1: "A venir !"
+    aboutcontent2: ""
+    aboutbutton: "Plus d'infos"
+    location: "Coordonnées"
+    social: "Réseaux sociaux"
+    footnav: "Navigation"
+    references: "Références"
+    modalbutton: "Fermer la fenêtre"
+  en:
+    contact: "Contact us"
+    contactname: "Name"
+    contactnamereqmsg: "Please enter your name."
+    contactemail: "Email Address"
+    contactemailreqmsg: "Please enter your email address."
+    contactmsg: "Message"
+    contactmsgreqmsg: "Please enter a message."
+    contactbutton: "Send"
+    contactformtitle: "Contact Form"
+    services: "Services"
+    about: "About"
+    aboutcontent1: "Coming soon !"
+    aboutcontent2: ""
+    aboutbutton: "More infos"
+    location: "Location"
+    social: "Around the web"
+    footnav: "Navigation"
+    references: "Customers"
+    modalbutton: "Close"
