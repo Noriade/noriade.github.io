@@ -3,7 +3,7 @@
   
     
     <url>
-      <loc>https://noriade.com/blog/2015-03-18-piwik-installation/</loc>
+      <loc>https://www.noriade.com/blog/2015-03-18-piwik-installation/</loc>
       
         <lastmod>2015-03-18</lastmod>
       
@@ -18,7 +18,7 @@
   
     
     <url>
-      <loc>https://noriade.com/blog/2015-03-18-mise-a-dispo-piwik/</loc>
+      <loc>https://www.noriade.com/blog/2015-03-18-mise-a-dispo-piwik/</loc>
       
         <lastmod>2015-03-18</lastmod>
       
@@ -33,7 +33,7 @@
   
     
     <url>
-      <loc>https://noriade.com/blog/2015-03-12-website-opening/</loc>
+      <loc>https://www.noriade.com/blog/2015-03-12-website-opening/</loc>
       
         <lastmod>2015-03-12</lastmod>
       
@@ -48,7 +48,7 @@
   
     
     <url>
-      <loc>https://noriade.com/blog/2015-03-12-ouverture-site-internet/</loc>
+      <loc>https://www.noriade.com/blog/2015-03-12-ouverture-site-internet/</loc>
       
         <lastmod>2015-03-12</lastmod>
       
@@ -63,162 +63,12 @@
   
   
     
-    <url>
-      <loc>https://noriade.com/hebergement/mutualise/</loc>
-      
-        <lastmod>2019-05-22</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://noriade.com/en/hosting/shared/</loc>
-      
-        <lastmod>2019-05-22</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://noriade.com/en/hosting/dedicated/</loc>
-      
-        <lastmod>2019-05-22</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://noriade.com/hebergement/dedie/</loc>
-      
-        <lastmod>2019-05-22</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://noriade.com/en/hosting/mails/</loc>
-      
-        <lastmod>2019-05-22</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://noriade.com/hebergement/messagerie/</loc>
-      
-        <lastmod>2019-05-22</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://noriade.com/hebergement/cloud/</loc>
-      
-        <lastmod>2019-05-22</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://noriade.com/en/hosting/cloud/</loc>
-      
-        <lastmod>2019-05-22</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
   
     
   
     
     <url>
-      <loc>https://noriade.com/en/hosting/dedicated-servers/</loc>
-      
-        <lastmod>2019-05-22</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://noriade.com/hebergement/serveurs-dedies/</loc>
-      
-        <lastmod>2019-05-22</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://noriade.com/blog/</loc>
+      <loc>https://www.noriade.com/blog/</loc>
       
         <lastmod>2017-10-20</lastmod>
       
@@ -233,7 +83,7 @@
   
     
     <url>
-      <loc>https://noriade.com/en/blog/</loc>
+      <loc>https://www.noriade.com/en/blog/</loc>
       
         <lastmod>2017-10-20</lastmod>
       
@@ -248,7 +98,7 @@
   
     
     <url>
-      <loc>https://noriade.com/services/conseil-audit/</loc>
+      <loc>https://www.noriade.com/services/conseil-audit/</loc>
       
         <lastmod>2017-10-20</lastmod>
       
@@ -263,7 +113,7 @@
   
     
     <url>
-      <loc>https://noriade.com/en/services/it-consulting/</loc>
+      <loc>https://www.noriade.com/en/services/audit-it-consulting/</loc>
       
         <lastmod>2017-10-20</lastmod>
       
@@ -278,41 +128,9 @@
   
     
     <url>
-      <loc>https://noriade.com/contact/</loc>
+      <loc>https://www.noriade.com/contact/</loc>
       
-        <lastmod>2019-05-22</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://noriade.com/en/contact/</loc>
-      
-        <lastmod>2019-05-22</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-  
-    
-    <url>
-      <loc>https://noriade.com/hebergement/</loc>
-      
-        <lastmod>2019-05-22</lastmod>
+        <lastmod>2017-10-20</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -325,7 +143,39 @@
   
     
     <url>
-      <loc>https://noriade.com/en/</loc>
+      <loc>https://www.noriade.com/en/contact/</loc>
+      
+        <lastmod>2017-10-20</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+  
+    
+    <url>
+      <loc>https://www.noriade.com/services/hebergement-web/</loc>
+      
+        <lastmod>2017-10-20</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.noriade.com/en/</loc>
       
         <lastmod>2017-11-14</lastmod>
       
@@ -340,22 +190,7 @@
   
     
     <url>
-      <loc>https://noriade.com/en/hosting/</loc>
-      
-        <lastmod>2019-05-22</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://noriade.com/</loc>
+      <loc>https://www.noriade.com/</loc>
       
         <lastmod>2017-11-14</lastmod>
       
@@ -370,7 +205,7 @@
   
     
     <url>
-      <loc>https://noriade.com/services/infogerance/</loc>
+      <loc>https://www.noriade.com/services/infogerance/</loc>
       
         <lastmod>2017-10-20</lastmod>
       
@@ -385,9 +220,9 @@
   
     
     <url>
-      <loc>https://noriade.com/en/terms-and-conditions/</loc>
+      <loc>https://www.noriade.com/en/terms-and-conditions/</loc>
       
-        <lastmod>2019-05-22</lastmod>
+        <lastmod>2017-11-09</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -400,9 +235,9 @@
   
     
     <url>
-      <loc>https://noriade.com/services/marketing-web/</loc>
+      <loc>https://www.noriade.com/services/web-marketing/</loc>
       
-        <lastmod>2019-05-22</lastmod>
+        <lastmod>2017-11-23</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -415,9 +250,9 @@
   
     
     <url>
-      <loc>https://noriade.com/mentions-legales/</loc>
+      <loc>https://www.noriade.com/mentions-legales/</loc>
       
-        <lastmod>2019-05-22</lastmod>
+        <lastmod>2017-10-20</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -430,7 +265,7 @@
   
     
     <url>
-      <loc>https://noriade.com/en/services/outsourcing/</loc>
+      <loc>https://www.noriade.com/en/services/outsourcing/</loc>
       
         <lastmod>2017-10-20</lastmod>
       
@@ -445,9 +280,9 @@
   
     
     <url>
-      <loc>https://noriade.com/partenaires/</loc>
+      <loc>https://www.noriade.com/partenaires/</loc>
       
-        <lastmod>2019-05-22</lastmod>
+        <lastmod>2017-11-14</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -460,9 +295,9 @@
   
     
     <url>
-      <loc>https://noriade.com/en/partners/</loc>
+      <loc>https://www.noriade.com/en/partners/</loc>
       
-        <lastmod>2019-05-22</lastmod>
+        <lastmod>2017-11-14</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -477,7 +312,7 @@
   
     
     <url>
-      <loc>https://noriade.com/services/</loc>
+      <loc>https://www.noriade.com/services/</loc>
       
         <lastmod>2017-10-20</lastmod>
       
@@ -492,7 +327,7 @@
   
     
     <url>
-      <loc>https://noriade.com/en/services/</loc>
+      <loc>https://www.noriade.com/en/services/</loc>
       
         <lastmod>2017-10-20</lastmod>
       
@@ -511,24 +346,9 @@
   
     
     <url>
-      <loc>https://noriade.com/en/services/web-marketing/</loc>
+      <loc>https://www.noriade.com/en/services/web-hosting/</loc>
       
-        <lastmod>2019-05-22</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://noriade.com/services/hebergement-web</loc>
-      
-        <lastmod>2019-05-22T20:16:49+07:00</lastmod>
+        <lastmod>2017-10-20</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -541,9 +361,9 @@
   
     
     <url>
-      <loc>https://noriade.com/redirects.json</loc>
+      <loc>https://www.noriade.com/en/services/web-marketing/</loc>
       
-        <lastmod>2019-05-22T20:16:49+07:00</lastmod>
+        <lastmod>2017-10-20</lastmod>
       
       
         <changefreq>monthly</changefreq>
