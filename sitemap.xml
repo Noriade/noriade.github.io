@@ -3,6 +3,21 @@
   
     
     <url>
+      <loc>https://noriade.com/blog/2019-04-25-new-customer-samathi-lake/</loc>
+      
+        <lastmod>2019-05-23</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>https://noriade.com/blog/2019-04-25-creation-site-samathi-lake/</loc>
       
         <lastmod>2019-05-23</lastmod>
@@ -33,9 +48,24 @@
   
     
     <url>
+      <loc>https://noriade.com/blog/2019-01-24-new-website-lebonbon/</loc>
+      
+        <lastmod>2019-05-23</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>https://noriade.com/blog/2015-03-18-piwik-installation/</loc>
       
-        <lastmod>2015-03-18</lastmod>
+        <lastmod>2019-05-23</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -50,7 +80,7 @@
     <url>
       <loc>https://noriade.com/blog/2015-03-18-mise-a-dispo-piwik/</loc>
       
-        <lastmod>2015-03-18</lastmod>
+        <lastmod>2019-05-23</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -372,7 +402,7 @@
     <url>
       <loc>https://noriade.com/hebergement/</loc>
       
-        <lastmod>2019-05-22</lastmod>
+        <lastmod>2019-05-23</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -402,7 +432,7 @@
     <url>
       <loc>https://noriade.com/en/hosting/</loc>
       
-        <lastmod>2019-05-22</lastmod>
+        <lastmod>2019-05-23</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -445,7 +475,7 @@
   
     
     <url>
-      <loc>https://noriade.com/en/terms-and-conditions/</loc>
+      <loc>https://noriade.com/en/legal-disclaimer/</loc>
       
         <lastmod>2019-05-22</lastmod>
       
@@ -586,39 +616,9 @@
   
     
     <url>
-      <loc>https://noriade.com/services/hebergement-web</loc>
-      
-        <lastmod>2019-05-23T13:30:52+07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
       <loc>https://noriade.com/services/hebergement-web/</loc>
       
-        <lastmod>2019-05-23T13:30:52+07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://noriade.com/fr/services/hebergement-web</loc>
-      
-        <lastmod>2019-05-23T13:30:52+07:00</lastmod>
+        <lastmod>2019-05-23T17:41:56+07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -633,22 +633,7 @@
     <url>
       <loc>https://noriade.com/fr/services/hebergement-web/</loc>
       
-        <lastmod>2019-05-23T13:30:52+07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://noriade.com/en/services/web-hosting</loc>
-      
-        <lastmod>2019-05-23T13:30:52+07:00</lastmod>
+        <lastmod>2019-05-23T17:41:56+07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -663,7 +648,22 @@
     <url>
       <loc>https://noriade.com/en/services/web-hosting/</loc>
       
-        <lastmod>2019-05-23T13:30:52+07:00</lastmod>
+        <lastmod>2019-05-23T17:41:56+07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://noriade.com/en/terms-and-conditions/</loc>
+      
+        <lastmod>2019-05-23T17:41:56+07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -678,7 +678,7 @@
     <url>
       <loc>https://noriade.com/redirects.json</loc>
       
-        <lastmod>2019-05-23T13:30:52+07:00</lastmod>
+        <lastmod>2019-05-23T17:41:56+07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
