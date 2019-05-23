@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator>
   <link href="https://noriade.com/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://noriade.com/" rel="alternate" type="text/html" />
-  <updated>2019-05-23T09:45:07+07:00</updated>
+  <updated>2019-05-23T13:30:52+07:00</updated>
   <id>https://noriade.com/</id>
 
   
@@ -18,6 +18,88 @@
   
 
   
+  
+    <entry xml:lang="fr">
+      <title type="html">Création site internet Samathi Lake</title>
+      <link href="https://noriade.com/blog/2019-04-25-creation-site-samathi-lake/" rel="alternate" type="text/html" title="Création site internet Samathi Lake" />
+      <published>2019-04-25T00:00:00+07:00</published>
+      <updated>2019-04-25T00:00:00+07:00</updated>
+      <id>https://noriade.com/blog/creation-site-samathi-lake</id>
+      <content type="html" xml:base="https://noriade.com/blog/2019-04-25-creation-site-samathi-lake/">&lt;p&gt;Nous accueillons un nouveau client, &lt;a href=&quot;http://www.samathilake.com&quot; target=&quot;_blank&quot; alt=&quot;Hotel Phnom Penh&quot; title=&quot;Hotel Phnom Penh&quot;&gt;Samathi Lake Resort&lt;/a&gt; !&lt;/p&gt;
+
+&lt;p&gt;Situé en périphérie de Phnom Penh au Cambodge, cet établissement hotelier a décidé de nous faire confiance dans la réalisation et l’hébergement de son site internet basé sur Wordpress.&lt;/p&gt;
+
+&lt;p&gt;N’hésitez pas à faire un tour sur leur site internet pour plus d’informations : &lt;a href=&quot;http://www.samathilake.com&quot; target=&quot;_blank&quot; alt=&quot;Samathi Lake Resort Phnom Penh&quot; title=&quot;Samathi Lake Resort Phnom Penh&quot;&gt;www.samathilake.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;L’équipe de Noriade.com&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Blog" />
+      
+
+      
+
+      
+        <summary type="html">Nous accueillons un nouveau client, Samathi Lake Resort !</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry xml:lang="fr">
+      <title type="html">Nouveau site LeBonbon</title>
+      <link href="https://noriade.com/blog/2019-01-24-nouveau-site-lebonbon/" rel="alternate" type="text/html" title="Nouveau site LeBonbon" />
+      <published>2019-01-24T00:00:00+07:00</published>
+      <updated>2019-01-24T00:00:00+07:00</updated>
+      <id>https://noriade.com/blog/nouveau-site-lebonbon</id>
+      <content type="html" xml:base="https://noriade.com/blog/2019-01-24-nouveau-site-lebonbon/">&lt;p&gt;Client depuis plusieurs années désormais, &lt;a href=&quot;https://www.lebonbon.fr/&quot; target=&quot;_blank&quot; alt=&quot;LeBonbon.fr&quot; title=&quot;LeBonbon.fr&quot;&gt;Le Bonbon&lt;/a&gt;, magazine en ligne et papier distribué gratuitement chaque mois dans les plus grandes villes de France, fait peau neuve !&lt;/p&gt;
+
+&lt;p&gt;Peu de changements graphiques à l’horizon, c’est le coeur du site et son infrastructure qui évoluent.&lt;/p&gt;
+
+&lt;p&gt;Nous espérons que ces changements rendront le site plus évolutif, plus performant et encore plus stable.&lt;/p&gt;
+
+&lt;p&gt;Retrouvez toutes l’actu du Bonbon sur leur site internet : &lt;a href=&quot;https://lebonbon.fr&quot; target=&quot;blank&quot; alt=&quot;LeBonbon.fr&quot; title=&quot;LeBonbon.fr&quot;&gt;www.lebonbon.fr&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;L’équipe de Noriade.com&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Blog" />
+      
+
+      
+
+      
+        <summary type="html">Client depuis plusieurs années désormais, Le Bonbon, magazine en ligne et papier distribué gratuitement chaque mois dans les plus grandes villes de France, fait peau neuve !</summary>
+      
+
+      
+      
+    </entry>
   
     <entry xml:lang="en">
       <title type="html">Piwik Installation</title>

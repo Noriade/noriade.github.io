@@ -14,4 +14,4 @@ Disallow: /configuration/
 Disallow: /mail/
 Disallow: /bdd/
 
-Sitemap: https://www.noriade.com/sitemap.xml
+Sitemap: https://noriade.com/sitemap.xml
