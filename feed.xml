@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator>
   <link href="https://noriade.com/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://noriade.com/" rel="alternate" type="text/html" />
-  <updated>2019-05-23T17:41:56+07:00</updated>
+  <updated>2019-05-26T12:21:19+07:00</updated>
   <id>https://noriade.com/</id>
 
   
@@ -12,7 +12,7 @@
   
 
   
-    <subtitle>{&quot;fr&quot;=&gt;&quot;Noriade.com propose des solutions d'hébergement web sur mesure et d'infogérance pour les professionnels et les entreprises. Nos experts techniques peut également intervenir pour des missions d'audit et de conseil en sécurité, référencement, web marketing ou encore sur la gestion des réseaux sociaux&quot;, &quot;en&quot;=&gt;&quot;Noriade is a company specialized in professional high availability web hosting, outsourcing, web marketing, audit and consulting ( security, SEO, social networking and architecture...).&quot;}</subtitle>
+    <subtitle>{&quot;fr&quot;=&gt;&quot;Hébergement web, solutions de messagerie, Infogérance, Web Marketing, découvrez toutes nos offres et solutions pour entreprises, professionnels et particuliers.&quot;, &quot;en&quot;=&gt;&quot;Noriade is a company specialized in professional high availability web hosting, outsourcing and web marketing.&quot;}</subtitle>
   
 
   
@@ -21,11 +21,11 @@
   
     <entry xml:lang="en">
       <title type="html">New customer Samathi Lake</title>
-      <link href="https://noriade.com/blog/2019-04-25-new-customer-samathi-lake/" rel="alternate" type="text/html" title="New customer Samathi Lake" />
+      <link href="https://noriade.com/en/blog/2019-04-25-new-customer-samathi-lake/" rel="alternate" type="text/html" title="New customer Samathi Lake" />
       <published>2019-04-25T00:00:00+07:00</published>
       <updated>2019-04-25T00:00:00+07:00</updated>
-      <id>https://noriade.com/blog/new-customer-samathi-lake</id>
-      <content type="html" xml:base="https://noriade.com/blog/2019-04-25-new-customer-samathi-lake/">&lt;p&gt;We welcome a new customer, &lt;a href=&quot;http://www.samathilake.com&quot; target=&quot;_blank&quot; alt=&quot;Hotel Phnom Penh&quot; title=&quot;Hotel Phnom Penh&quot;&gt;Samathi Lake Resort&lt;/a&gt;!&lt;/p&gt;
+      <id>https://noriade.com/en/blog/new-customer-samathi-lake</id>
+      <content type="html" xml:base="https://noriade.com/en/blog/2019-04-25-new-customer-samathi-lake/">&lt;p&gt;We welcome a new customer, &lt;a href=&quot;http://www.samathilake.com&quot; target=&quot;_blank&quot; alt=&quot;Hotel Phnom Penh&quot; title=&quot;Hotel Phnom Penh&quot;&gt;Samathi Lake Resort&lt;/a&gt;!&lt;/p&gt;
 
 &lt;p&gt;Located on the outskirts of Phnom Penh in Cambodia, this hotel has decided to trust us in the realization and hosting of its website based on Wordpress.&lt;/p&gt;
 
@@ -143,11 +143,11 @@
   
     <entry xml:lang="en">
       <title type="html">New website LeBonbon</title>
-      <link href="https://noriade.com/blog/2019-01-24-new-website-lebonbon/" rel="alternate" type="text/html" title="New website LeBonbon" />
+      <link href="https://noriade.com/en/blog/2019-01-24-new-website-lebonbon/" rel="alternate" type="text/html" title="New website LeBonbon" />
       <published>2019-01-24T00:00:00+07:00</published>
       <updated>2019-01-24T00:00:00+07:00</updated>
-      <id>https://noriade.com/blog/new-website-lebonbon</id>
-      <content type="html" xml:base="https://noriade.com/blog/2019-01-24-new-website-lebonbon/">&lt;p&gt;Customer for several years now, &lt;a href=&quot;https://www.lebonbon.fr/&quot; target=&quot;_blank&quot; alt=&quot;LeBonbon.fr&quot; title=&quot;LeBonbon.fr&quot;&gt;Le Bonbon&lt;/a&gt;, online magazine and paper distributed free of charge each month in the largest cities in France, is getting a makeover!&lt;/p&gt;
+      <id>https://noriade.com/en/blog/new-website-lebonbon</id>
+      <content type="html" xml:base="https://noriade.com/en/blog/2019-01-24-new-website-lebonbon/">&lt;p&gt;Customer for several years now, &lt;a href=&quot;https://www.lebonbon.fr/&quot; target=&quot;_blank&quot; alt=&quot;LeBonbon.fr&quot; title=&quot;LeBonbon.fr&quot;&gt;Le Bonbon&lt;/a&gt;, online magazine and paper distributed free of charge each month in the largest cities in France, is getting a makeover!&lt;/p&gt;
 
 &lt;p&gt;Few graphic changes on the horizon, it is the heart of the site and its infrastructure that evolve.&lt;/p&gt;
 
@@ -185,11 +185,11 @@
   
     <entry xml:lang="en">
       <title type="html">Piwik Installation</title>
-      <link href="https://noriade.com/blog/2015-03-18-piwik-installation/" rel="alternate" type="text/html" title="Piwik Installation" />
+      <link href="https://noriade.com/en/blog/2015-03-18-piwik-installation/" rel="alternate" type="text/html" title="Piwik Installation" />
       <published>2015-03-18T00:00:00+07:00</published>
       <updated>2015-03-18T00:00:00+07:00</updated>
-      <id>https://noriade.com/blog/piwik-installation</id>
-      <content type="html" xml:base="https://noriade.com/blog/2015-03-18-piwik-installation/">&lt;p&gt;For the past few days, we have been offering our customers who wish to use our platform Piwik to make audience measurements on their websites and web applications.&lt;/p&gt;
+      <id>https://noriade.com/en/blog/piwik-installation</id>
+      <content type="html" xml:base="https://noriade.com/en/blog/2015-03-18-piwik-installation/">&lt;p&gt;For the past few days, we have been offering our customers who wish to use our platform Piwik to make audience measurements on their websites and web applications.&lt;/p&gt;
 
 &lt;p&gt;For those who do not know yet, &lt;a title=&quot;Piwik&quot; href=&quot;http://piwik.org/&quot; target=&quot;_blank&quot;&gt;Piwik&lt;/a&gt; is an open source audience measurement tool (free of charge). The strength of this solution is the importance attached to the respect of privacy and personal data collected. Piwik is recommended in particular by the National Commission for Informatics and Liberties (&lt;a title=&quot;CNIL&quot; href=&quot;http://www.cnil.fr/vos-obligations/sites-web-cookies-et-autres-traceurs/outils-et-codes-sources/la-mesure-daudience/&quot; target=&quot;_blank&quot;&gt;CNIL&lt;/a&gt;) as well as by the body for protection of privacy in Germany (&lt;a title=&quot;ULD&quot; href=&quot;https://www.datenschutzzentrum.de/&quot; target=&quot;_blank&quot;&gt;ULD&lt;/a&gt;). It’s a very credible alternative to Google Analytics.&lt;/p&gt;
 
@@ -265,11 +265,11 @@
   
     <entry xml:lang="en">
       <title type="html">Opening of our website</title>
-      <link href="https://noriade.com/blog/2015-03-12-website-opening/" rel="alternate" type="text/html" title="Opening of our website" />
+      <link href="https://noriade.com/en/blog/2015-03-12-website-opening/" rel="alternate" type="text/html" title="Opening of our website" />
       <published>2015-03-12T00:00:00+07:00</published>
       <updated>2015-03-12T00:00:00+07:00</updated>
-      <id>https://noriade.com/blog/website-opening</id>
-      <content type="html" xml:base="https://noriade.com/blog/2015-03-12-website-opening/">&lt;p&gt;Hello and welcome to our new website!&lt;/p&gt;
+      <id>https://noriade.com/en/blog/website-opening</id>
+      <content type="html" xml:base="https://noriade.com/en/blog/2015-03-12-website-opening/">&lt;p&gt;Hello and welcome to our new website!&lt;/p&gt;
 
 &lt;p&gt;Noriade.com is available in two languages (English and French) and you will find information about the different services we offer and news about the company.&lt;/p&gt;
 
