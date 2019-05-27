@@ -123,6 +123,7 @@
   
   
     
+    
     <url>
       <loc>https://noriade.com/hebergement/mutualise/</loc>
       
@@ -136,7 +137,9 @@
       
     </url>
     
+    
   
+    
     
     <url>
       <loc>https://noriade.com/en/hosting/shared/</loc>
@@ -151,12 +154,14 @@
       
     </url>
     
+    
   
+    
     
     <url>
       <loc>https://noriade.com/en/hosting/dedicated/</loc>
       
-        <lastmod>2019-05-22</lastmod>
+        <lastmod>2019-05-27</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -166,12 +171,14 @@
       
     </url>
     
+    
   
+    
     
     <url>
       <loc>https://noriade.com/hebergement/dedie/</loc>
       
-        <lastmod>2019-05-22</lastmod>
+        <lastmod>2019-05-27</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -181,7 +188,9 @@
       
     </url>
     
+    
   
+    
     
     <url>
       <loc>https://noriade.com/en/hosting/mails/</loc>
@@ -196,7 +205,9 @@
       
     </url>
     
+    
   
+    
     
     <url>
       <loc>https://noriade.com/hebergement/messagerie/</loc>
@@ -211,7 +222,9 @@
       
     </url>
     
+    
   
+    
     
     <url>
       <loc>https://noriade.com/hebergement/cloud/</loc>
@@ -226,7 +239,9 @@
       
     </url>
     
+    
   
+    
     
     <url>
       <loc>https://noriade.com/en/hosting/cloud/</loc>
@@ -241,11 +256,17 @@
       
     </url>
     
-  
     
   
     
+    
+    
   
+    
+    
+    
+  
+    
     
     <url>
       <loc>https://noriade.com/hebergement/vps/</loc>
@@ -260,7 +281,9 @@
       
     </url>
     
+    
   
+    
     
     <url>
       <loc>https://noriade.com/en/hosting/vps/</loc>
@@ -275,7 +298,9 @@
       
     </url>
     
+    
   
+    
     
     <url>
       <loc>https://noriade.com/en/hosting/dedicated-servers/</loc>
@@ -290,7 +315,9 @@
       
     </url>
     
+    
   
+    
     
     <url>
       <loc>https://noriade.com/hebergement/serveurs-dedies/</loc>
@@ -305,7 +332,9 @@
       
     </url>
     
+    
   
+    
     
     <url>
       <loc>https://noriade.com/blog/</loc>
@@ -320,7 +349,9 @@
       
     </url>
     
+    
   
+    
     
     <url>
       <loc>https://noriade.com/en/blog/</loc>
@@ -335,7 +366,9 @@
       
     </url>
     
+    
   
+    
     
     <url>
       <loc>https://noriade.com/services/conseil-audit/</loc>
@@ -350,7 +383,9 @@
       
     </url>
     
+    
   
+    
     
     <url>
       <loc>https://noriade.com/en/services/it-consulting/</loc>
@@ -365,7 +400,9 @@
       
     </url>
     
+    
   
+    
     
     <url>
       <loc>https://noriade.com/contact/</loc>
@@ -380,7 +417,9 @@
       
     </url>
     
+    
   
+    
     
     <url>
       <loc>https://noriade.com/en/contact/</loc>
@@ -395,9 +434,13 @@
       
     </url>
     
-  
     
   
+    
+    
+    
+  
+    
     
     <url>
       <loc>https://noriade.com/hebergement/</loc>
@@ -412,7 +455,9 @@
       
     </url>
     
+    
   
+    
     
     <url>
       <loc>https://noriade.com/en/</loc>
@@ -427,7 +472,9 @@
       
     </url>
     
+    
   
+    
     
     <url>
       <loc>https://noriade.com/en/hosting/</loc>
@@ -442,7 +489,9 @@
       
     </url>
     
+    
   
+    
     
     <url>
       <loc>https://noriade.com/</loc>
@@ -457,7 +506,9 @@
       
     </url>
     
+    
   
+    
     
     <url>
       <loc>https://noriade.com/services/infogerance/</loc>
@@ -472,7 +523,9 @@
       
     </url>
     
+    
   
+    
     
     <url>
       <loc>https://noriade.com/en/legal-disclaimer/</loc>
@@ -487,7 +540,9 @@
       
     </url>
     
+    
   
+    
     
     <url>
       <loc>https://noriade.com/services/marketing-web/</loc>
@@ -502,7 +557,9 @@
       
     </url>
     
+    
   
+    
     
     <url>
       <loc>https://noriade.com/mentions-legales/</loc>
@@ -517,7 +574,9 @@
       
     </url>
     
+    
   
+    
     
     <url>
       <loc>https://noriade.com/en/services/outsourcing/</loc>
@@ -532,7 +591,9 @@
       
     </url>
     
+    
   
+    
     
     <url>
       <loc>https://noriade.com/partenaires/</loc>
@@ -547,7 +608,9 @@
       
     </url>
     
+    
   
+    
     
     <url>
       <loc>https://noriade.com/en/partners/</loc>
@@ -562,9 +625,47 @@
       
     </url>
     
-  
     
   
+    
+    
+    <url>
+      <loc>https://noriade.com/sitemap/</loc>
+      
+        <lastmod>2019-05-27</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+    
+  
+    
+    
+    <url>
+      <loc>https://noriade.com/en/sitemap/</loc>
+      
+        <lastmod>2019-05-27</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+    
+  
+    
+    
+    
+  
+    
     
     <url>
       <loc>https://noriade.com/services/</loc>
@@ -579,7 +680,9 @@
       
     </url>
     
+    
   
+    
     
     <url>
       <loc>https://noriade.com/en/services/</loc>
@@ -594,11 +697,17 @@
       
     </url>
     
-  
     
   
     
+    
+    
   
+    
+    
+    
+  
+    
     
     <url>
       <loc>https://noriade.com/en/services/web-marketing/</loc>
@@ -613,140 +722,24 @@
       
     </url>
     
-  
-    
-    <url>
-      <loc>https://noriade.com/blog/2015-03-12-website-opening/</loc>
-      
-        <lastmod>2019-05-26T12:25:09+07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
     
   
     
-    <url>
-      <loc>https://noriade.com/blog/2015-03-18-piwik-installation/</loc>
-      
-        <lastmod>2019-05-26T12:25:09+07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
+  
     
   
     
-    <url>
-      <loc>https://noriade.com/blog/2019-01-24-new-website-lebonbon/</loc>
-      
-        <lastmod>2019-05-26T12:25:09+07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
+  
     
   
     
-    <url>
-      <loc>https://noriade.com/blog/2019-04-25-new-customer-samathi-lake/</loc>
-      
-        <lastmod>2019-05-26T12:25:09+07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
+  
     
   
     
-    <url>
-      <loc>https://noriade.com/services/hebergement-web/</loc>
-      
-        <lastmod>2019-05-26T12:25:09+07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
   
     
-    <url>
-      <loc>https://noriade.com/fr/services/hebergement-web/</loc>
-      
-        <lastmod>2019-05-26T12:25:09+07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
   
-    
-    <url>
-      <loc>https://noriade.com/en/services/web-hosting/</loc>
-      
-        <lastmod>2019-05-26T12:25:09+07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://noriade.com/en/terms-and-conditions/</loc>
-      
-        <lastmod>2019-05-26T12:25:09+07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://noriade.com/redirects.json</loc>
-      
-        <lastmod>2019-05-26T12:25:09+07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
     
   
 </urlset>
