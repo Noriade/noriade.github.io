@@ -8,7 +8,7 @@
     <meta name="description" content="Hébergement web, solutions de messagerie, Infogérance, Web Marketing, découvrez toutes nos offres et solutions pour entreprises, professionnels et particuliers.">
     <meta name="keywords" content="Hébergement, web, professionnel, infogérance, conseil, audit, opensource, linux, freelance, prestataire, marketing, réseaux sociaux, sysadmin, administration système." />
     <meta name="author" content="Noriade LTD">
-    <link rel="canonical" href="https://noriade.com/commander/">
+    <link rel="canonical" href="https://noriade.com/commander/office365/">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
     <link rel="alternate" href="https://noriade.com" hreflang="fr" />
     <link rel="alternate" href="https://noriade.com/en/" hreflang="en" />
@@ -20,7 +20,7 @@
     <meta name="twitter:site" content="@noriade" />
     <meta name="twitter:title" content="Commander">
     <meta name="twitter:description" content="Hébergement web, solutions de messagerie, Infogérance, Web Marketing, découvrez toutes nos offres et solutions pour entreprises, professionnels et particuliers.">
-    <meta name="twitter:url" content="https://noriade.com/commander/" />
+    <meta name="twitter:url" content="https://noriade.com/commander/office365/" />
     <meta name="twitter:domain" content="https://noriade.com" />
 
     <meta property="og:title" content="Commander" />
@@ -32,7 +32,7 @@
     <meta property="og:locale:alternate" content="en_US" />
     
     
-    <meta property="og:url" content="https://noriade.com/commander/" />
+    <meta property="og:url" content="https://noriade.com/commander/office365/" />
     
     
     <meta property="og:image" content="/img/logo-NORIADE.png" />
@@ -147,7 +147,7 @@
                     
                     
                     <li>
-                      <a href="/commander/" class="fr">fr</a>
+                      <a href="/commander/office365/" class="fr">fr</a>
                     </li>
                     
                     
@@ -176,7 +176,7 @@
 		</div>
 		<div class="row">
 			<div class="col-lg-8 col-lg-offset-2">
-				<form  action="//formspree.io/contact@noriade.com" method="POST" name="sentMessage" id="contactForm" novalidate>
+				<form  action="//formspree.io/commandes@fr.noriade.com" method="POST" name="sentMessage" id="contactForm" novalidate>
 					<div class="row control-group">
 						<div class="form-group col-xs-6 floating-label-form-group controls">
 							<label>Prénom</label>
@@ -234,14 +234,33 @@
 						</div>
 					</div>
 					<div class="row control-group">
+						<br><h4 class="text-muted">Veuillez sélectionner votre offre</h4><br>
+							<div class="form-group col-xs-12 floating-label-form-group controls">
+	    					<select class="form-control text-muted" id="offerchoice">
+	      					<option value="officeoffer1">Office365 Business Essentials - 4,20€ HT/utilisateur/mois (payement annuel)</option>
+	      					<option value="officeoffer2">Office365 Business Essentials - 5,10€ HT/utilisateur/mois (sans engagement)</option>
+	      					<option value="officeoffer3">Office365 Business Premium - 10,50€ HT/utilisateur/mois (payement annuel)</option>
+	      					<option value="officeoffer4">Office365 Business Premium - 12,60€ HT/utilisateur/mois (sans engagement)</option>
+	    					</select>
+							<p class="help-block text-danger"></p>
+							</div>
+  				</div>
+					<div class="row control-group">
+						<br><h4 class="text-muted">Nombre d'utilisateurs:</h4><br>
+						<div class="form-group col-xs-2 floating-label-form-group controls">
+							<input type="number" name="orderusersnumber" class="form-control" placeholder="0" min="1" max="300" id="orderusersnumber" required data-validation-required-message="Veuillez indiquez le nombre d'utilisateurs désirés.">
+							<p class="help-block text-danger"></p>
+						</div>
+					</div>
+					<div class="row control-group">
 						<br><h4 class="text-muted">Moyen de paiement:</h4><br>
 						<div class="form-check col-xs-5 controls">
-							<input class="form-check-input" type="radio" name="payment" class="form-control" placeholder="Carte Bancaire / Paypal" id="bycard" value="bycard" required data-validation-required-message="Veuillez entrer votre message.">
+							<input class="form-check-input" type="radio" name="payment" class="form-control" placeholder="Carte Bancaire / Paypal" id="bycard" value="bycard" required data-validation-required-message="Veuillez sélectionner votre moyen de paiement">
 							<label class="form-check-label text-muted" for="bycard">&nbsp;&nbsp;&nbsp;Carte Bancaire / Paypal</label>
 						</div>
 						<div class="form-check col-xs-5 controls">
-							<input class="form-check-input" type="radio" name="payment" class="form-control" placeholder="Carte Bancaire / Paypal" id="bycard" value="bycard" required data-validation-required-message="Veuillez entrer votre message.">
-							<label class="form-check-label text-muted" for="bycard">&nbsp;&nbsp;&nbsp;Carte Bancaire / Paypal</label>
+							<input class="form-check-input" type="radio" name="payment" class="form-control" placeholder="Virement bancaire" id="bytransfert" value="bytransfert" required data-validation-required-message="Veuillez sélectionner votre moyen de paiement">
+							<label class="form-check-label text-muted" for="bycard">&nbsp;&nbsp;&nbsp;Virement bancaire</label>
 						</div>
 					</div>
 					<br>
@@ -257,6 +276,8 @@
 	</div>
 </section>
 
+    
+    
     
 
     
@@ -315,7 +336,7 @@
 		                        
                                  <br>
 		                        
-                            <a href="mailto:%63%6F%6E%74%61%63%74@%6E%6F%72%69%61%64%65.%63%6F%6D" title="Contact us">contact [at] noriade.com</a>
+                            <a href="mailto:{"%66%72"=>{"%63%6F%6E%74%61%63%74"=>"%63%6F%6E%74%61%63%74@%66%72.%6E%6F%72%69%61%64%65.%63%6F%6D", "%6F%72%64%65%72"=>"%63%6F%6D%6D%61%6E%64%65%73@%66%72.%6E%6F%72%69%61%64%65.%63%6F%6D", "%73%75%70%70%6F%72%74"=>"%73%75%70%70%6F%72%74@%66%72.%6E%6F%72%69%61%64%65.%63%6F%6D"}, "%65%6E"=>{"%63%6F%6E%74%61%63%74"=>"%63%6F%6E%74%61%63%74@%65%6E.%6E%6F%72%69%61%64%65.%63%6F%6D", "%6F%72%64%65%72"=>"%6F%72%64%65%72%73@%65%6E.%6E%6F%72%69%61%64%65.%63%6F%6D", "%73%75%70%70%6F%72%74"=>"%73%75%70%70%6F%72%74@%65%6E.%6E%6F%72%69%61%64%65.%63%6F%6D"}}" title="Contact us">contact [at] noriade.com</a>
                         </p> -->
                     </div>
                     <div class="footer-col col-md-4">

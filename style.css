@@ -510,3 +510,19 @@ footer .footer-below {
 .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-cow{background-color:#509bce;border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.butn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #509bce;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid #509bce 2px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #d1dee6;
+  text-decoration: none;
+}
