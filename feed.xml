@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator>
   <link href="https://noriade.com/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://noriade.com/" rel="alternate" type="text/html" />
-  <updated>2019-06-06T11:08:56+07:00</updated>
+  <updated>2019-06-06T17:57:00+07:00</updated>
   <id>https://noriade.com/</id>
 
   
@@ -45,11 +45,11 @@ Voici donc les offres que nous proposons à l’heure actuelle :&lt;/p&gt;
     &lt;ul&gt;
     &lt;li&gt;Nom de domaine personnalisable (non inclus)&lt;/li&gt;
     &lt;li&gt;Espace disque: 50 Go par boîte mail&lt;/li&gt;
-    &lt;li&gt;Versions web de Word, Excel et PowerPoint&lt;/li&gt;
-    &lt;li&gt;Stockage et partage de fichiers avec 1 To de stockage en ligne OneDrive&lt;/li&gt;
-    &lt;li&gt;Intranet d’entreprise et sites d’équipe avec SharePoint&lt;/li&gt;
-    &lt;li&gt;Réunions en ligne et visioconférences pouvant rassembler jusqu’à 250 participants avec Skype Enterprise&lt;/li&gt;
-    &lt;li&gt;Plateforme pour connecter vos équipes avec Microsoft Teams&lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Versions web&lt;/b&gt; de Word, Excel et PowerPoint&lt;br /&gt;&lt;img src=&quot;/img/microsoft/microsoft-word-2019-48.png&quot; width=&quot;36&quot; /&gt;&lt;img src=&quot;/img/microsoft/microsoft-excel-2019-48.png&quot; width=&quot;36&quot; /&gt;&lt;img src=&quot;/img/microsoft/microsoft-powerpoint-2019-48.png&quot; width=&quot;36&quot; /&gt;&lt;img src=&quot;/img/microsoft/microsoft-outlook-2019-48.png&quot; width=&quot;36&quot; /&gt;&lt;/li&gt;
+    &lt;li&gt;Stockage et partage de fichiers avec 1 To de stockage en ligne &lt;img src=&quot;/img/microsoft/microsoft-onedrive-2019-48.png&quot; width=&quot;36&quot; /&gt; OneDrive&lt;/li&gt;
+    &lt;li&gt;Intranet d’entreprise et sites d’équipe avec &lt;img src=&quot;/img/microsoft/microsoft-sharepoint-2019-48.png&quot; width=&quot;36&quot; /&gt; SharePoint&lt;/li&gt;
+    &lt;li&gt;Réunions en ligne et visioconférences pouvant rassembler jusqu’à 250 participants avec &lt;img src=&quot;/img/microsoft/skype-2019-48.png&quot; width=&quot;36&quot; /&gt; Skype&lt;/li&gt;
+    &lt;li&gt;Plateforme pour connecter vos équipes avec &lt;img src=&quot;/img/microsoft/microsoft-teams-48.png&quot; width=&quot;36&quot; /&gt; Teams&lt;/li&gt;
     &lt;li&gt;Gérez les tâches et le travail de votre équipe avec le Planificateur Microsoft&lt;/li&gt;
     &lt;li&gt;Nombre maximal d’utilisateurs: 300&lt;/li&gt;
     &lt;li&gt;Anti Virus &amp;amp; Anti Spam&lt;/li&gt;  
@@ -72,11 +72,11 @@ Voici donc les offres que nous proposons à l’heure actuelle :&lt;/p&gt;
     &lt;ul&gt;
     &lt;li&gt;Nom de domaine personnalisable (non inclus)&lt;/li&gt;
     &lt;li&gt;Espace disque: 50 Go par boîte mail&lt;/li&gt;
-    &lt;li&gt;Versions de bureau (et web) des logiciels Office sur PC ou Mac&lt;/li&gt;
-    &lt;li&gt;Stockage et partage de fichiers avec 1 To de stockage en ligne OneDrive&lt;/li&gt;
-    &lt;li&gt;Intranet d’entreprise et sites d’équipe avec SharePoint&lt;/li&gt;
-    &lt;li&gt;Réunions en ligne et visioconférences pouvant rassembler jusqu’à 250 participants avec Skype Enterprise&lt;/li&gt;
-    &lt;li&gt;Plateforme pour connecter vos équipes avec Microsoft Teams&lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Versions de bureau&lt;/b&gt; (et web) des logiciels Office sur PC ou Mac&lt;br /&gt;&lt;img src=&quot;/img/microsoft/microsoft-word-2019-48.png&quot; width=&quot;36&quot; /&gt;&lt;img src=&quot;/img/microsoft/microsoft-excel-2019-48.png&quot; width=&quot;36&quot; /&gt;&lt;img src=&quot;/img/microsoft/microsoft-powerpoint-2019-48.png&quot; width=&quot;36&quot; /&gt;&lt;img src=&quot;/img/microsoft/microsoft-outlook-2019-48.png&quot; width=&quot;36&quot; /&gt;&lt;/li&gt;
+    &lt;li&gt;Stockage et partage de fichiers avec 1 To de stockage en ligne &lt;img src=&quot;/img/microsoft/microsoft-onedrive-2019-48.png&quot; width=&quot;36&quot; /&gt; OneDrive&lt;/li&gt;
+    &lt;li&gt;Intranet d’entreprise et sites d’équipe avec &lt;img src=&quot;/img/microsoft/microsoft-sharepoint-2019-48.png&quot; width=&quot;36&quot; /&gt; SharePoint&lt;/li&gt;
+    &lt;li&gt;Réunions en ligne et visioconférences pouvant rassembler jusqu’à 250 participants avec &lt;img src=&quot;/img/microsoft/skype-2019-48.png&quot; width=&quot;36&quot; /&gt; Skype&lt;/li&gt;
+    &lt;li&gt;Plateforme pour connecter vos équipes avec &lt;img src=&quot;/img/microsoft/microsoft-teams-48.png&quot; width=&quot;36&quot; /&gt; Teams&lt;/li&gt;
     &lt;li&gt;Gérez les tâches et le travail de votre équipe avec le Planificateur Microsoft&lt;/li&gt;
     &lt;li&gt;Nombre maximal d’utilisateurs: 300&lt;/li&gt;
     &lt;li&gt;Anti Virus &amp;amp; Anti Spam&lt;/li&gt;  
@@ -136,11 +136,9 @@ N’hésitez pas à nous &lt;a href=&quot;/contact/#contact&quot;&gt;contacter&l
 &lt;p&gt;Exchange and Azure offers will follow very soon.
 &lt;br /&gt;&lt;br /&gt;
 So here are the offers that we offer at the moment :&lt;/p&gt;
-
-&lt;table align=&quot;center&quot;&gt;
-&lt;tbody align=&quot;center&quot;&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;table class=&quot;tg&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-4&quot;&gt;
+&lt;table class=&quot;tg&quot;&gt;
   &lt;tr&gt;
     &lt;th class=&quot;tg-cow&quot;&gt;&lt;h4&gt;Office 365 Business Essentials&lt;/h4&gt;&lt;/th&gt;
   &lt;/tr&gt;
@@ -149,11 +147,11 @@ So here are the offers that we offer at the moment :&lt;/p&gt;
     &lt;ul&gt;
     &lt;li&gt;Customizable domain name (not included)&lt;/li&gt;
     &lt;li&gt;Disk space: 50 Go /mail account&lt;/li&gt;
-    &lt;li&gt;Web versions of Word, Excel, and PowerPoint&lt;/li&gt;
-    &lt;li&gt;File storage and sharing with 1 TB of OneDrive storage&lt;/li&gt;
-    &lt;li&gt;Company-wide intranet and team sites with SharePoint&lt;/li&gt;
-    &lt;li&gt;Online meetings and video conferencing for up to 250 people&lt;/li&gt;
-    &lt;li&gt;Hub for teamwork to connect your teams with Microsoft Teams&lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Web versions&lt;/b&gt; of Word, Excel, and PowerPoint&lt;br /&gt;&lt;img src=&quot;/img/microsoft/microsoft-word-2019-48.png&quot; width=&quot;36&quot; /&gt;&lt;img src=&quot;/img/microsoft/microsoft-excel-2019-48.png&quot; width=&quot;36&quot; /&gt;&lt;img src=&quot;/img/microsoft/microsoft-powerpoint-2019-48.png&quot; width=&quot;36&quot; /&gt;&lt;img src=&quot;/img/microsoft/microsoft-outlook-2019-48.png&quot; width=&quot;36&quot; /&gt;&lt;/li&gt;
+    &lt;li&gt;File storage and sharing with 1 TB of &lt;img src=&quot;/img/microsoft/microsoft-onedrive-2019-48.png&quot; width=&quot;36&quot; /&gt; OneDrive storage&lt;/li&gt;
+    &lt;li&gt;Company-wide intranet and team sites with &lt;img src=&quot;/img/microsoft/microsoft-sharepoint-2019-48.png&quot; width=&quot;36&quot; /&gt; SharePoint&lt;/li&gt;
+    &lt;li&gt;Online meetings and video conferencing for up to 250 people with &lt;img src=&quot;/img/microsoft/skype-2019-48.png&quot; width=&quot;36&quot; /&gt; Skype&lt;/li&gt;
+    &lt;li&gt;Hub for teamwork to connect your teams with &lt;img src=&quot;/img/microsoft/microsoft-teams-48.png&quot; width=&quot;36&quot; /&gt; Teams&lt;/li&gt;
     &lt;li&gt;Manage tasks and teamwork with Microsoft Planner&lt;/li&gt;
     &lt;li&gt;Maximum number of users: 300&lt;/li&gt;
     &lt;li&gt;Anti Virus &amp;amp; Anti Spam&lt;/li&gt;  
@@ -165,9 +163,10 @@ So here are the offers that we offer at the moment :&lt;/p&gt;
   &lt;tr&gt;
     &lt;td class=&quot;tg-c3ow&quot;&gt;&lt;a href=&quot;/en/order/office365/&quot; class=&quot;butn&quot;&gt;Order&lt;/a&gt;&lt;/td&gt;
   &lt;/tr&gt;
-&lt;/table&gt;&lt;/td&gt;
-&lt;td&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
-&lt;td&gt;&lt;table class=&quot;tg&quot;&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-4&quot;&gt;
+&lt;table class=&quot;tg&quot;&gt;
   &lt;tr&gt;
     &lt;th class=&quot;tg-cow&quot;&gt;&lt;h4&gt;Office 365 Business Premium&lt;/h4&gt;&lt;/th&gt;
   &lt;/tr&gt;
@@ -176,11 +175,11 @@ So here are the offers that we offer at the moment :&lt;/p&gt;
     &lt;ul&gt;
     &lt;li&gt;Customizable domain name (not included)&lt;/li&gt;
     &lt;li&gt;Disk space: 50 Go /mail account&lt;/li&gt;
-    &lt;li&gt;Desktop versions (and web version) of Office apps on PC or Mac&lt;/li&gt;
-    &lt;li&gt;File storage and sharing with 1 TB of OneDrive storage&lt;/li&gt;
-    &lt;li&gt;Company-wide intranet and team sites with SharePoint&lt;/li&gt;
-    &lt;li&gt;Online meetings and video conferencing for up to 250 people&lt;/li&gt;
-    &lt;li&gt;Hub for teamwork to connect your teams with Microsoft Teams&lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Desktop versions&lt;/b&gt; (and web version) of Office apps on PC/Mac&lt;br /&gt;&lt;img src=&quot;/img/microsoft/microsoft-word-2019-48.png&quot; width=&quot;36&quot; /&gt;&lt;img src=&quot;/img/microsoft/microsoft-excel-2019-48.png&quot; width=&quot;36&quot; /&gt;&lt;img src=&quot;/img/microsoft/microsoft-powerpoint-2019-48.png&quot; width=&quot;36&quot; /&gt;&lt;img src=&quot;/img/microsoft/microsoft-outlook-2019-48.png&quot; width=&quot;36&quot; /&gt;&lt;/li&gt;
+    &lt;li&gt;File storage and sharing with 1 TB of &lt;img src=&quot;/img/microsoft/microsoft-onedrive-2019-48.png&quot; width=&quot;36&quot; /&gt; OneDrive storage&lt;/li&gt;
+    &lt;li&gt;Company-wide intranet and team sites with &lt;img src=&quot;/img/microsoft/microsoft-sharepoint-2019-48.png&quot; width=&quot;36&quot; /&gt; SharePoint&lt;/li&gt;
+    &lt;li&gt;Online meetings and video conferencing for up to 250 people with &lt;img src=&quot;/img/microsoft/skype-2019-48.png&quot; width=&quot;36&quot; /&gt; Skype&lt;/li&gt;
+    &lt;li&gt;Hub for teamwork to connect your teams with &lt;img src=&quot;/img/microsoft/microsoft-teams-48.png&quot; width=&quot;36&quot; /&gt; Teams&lt;/li&gt;
     &lt;li&gt;Manage tasks and teamwork with Microsoft Planner&lt;/li&gt;
     &lt;li&gt;Maximum number of users: 300&lt;/li&gt;
     &lt;li&gt;Anti Virus &amp;amp; Anti Spam&lt;/li&gt;  
@@ -192,10 +191,9 @@ So here are the offers that we offer at the moment :&lt;/p&gt;
   &lt;tr&gt;
     &lt;td class=&quot;tg-c3ow&quot;&gt;&lt;a href=&quot;/en/order/office365/&quot; class=&quot;butn&quot;&gt;Order&lt;/a&gt;&lt;/td&gt;
   &lt;/tr&gt;
-&lt;/table&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
 &lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;
 Do not hesitate to &lt;a href=&quot;/en/contact/#contact&quot;&gt;contact us&lt;/a&gt; if you want more information about these offers.
 &lt;br /&gt;&lt;br /&gt;
