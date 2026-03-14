@@ -1,4 +1,8 @@
 $(function() {
+    var basePath = window.NORIADE_BASE_PATH || "";
+    var contactMessages = window.NORIADE_CONTACT_MESSAGES || {};
+    var successMessage = contactMessages.success || "Your message has been sent.";
+    var errorMessage = contactMessages.error || "Sorry, it seems that my mail server is not responding. Please try again later!";
 
     $("input,textarea").jqBootstrapValidation({
         preventSubmit: true,
@@ -17,7 +21,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "/mail/contact_me.php",
+                url: basePath + "/mail/contact_me.php",
                 type: "POST",
                 data: {
                     name: name,
@@ -31,7 +35,7 @@ $(function() {
                     $('#success > .alert-success').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
                         .append("</button>");
                     $('#success > .alert-success')
-                        .append("<strong>Your message has been sent. </strong>");
+                        .append("<strong>" + successMessage + "</strong>");
                     $('#success > .alert-success')
                         .append('</div>');
 
@@ -43,7 +47,7 @@ $(function() {
                     $('#success').html("<div class='alert alert-danger'>");
                     $('#success > .alert-danger').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
                         .append("</button>");
-                    $('#success > .alert-danger').append("<strong>Sorry, it seems that my mail server is not responding. Please try again later!");
+                    $('#success > .alert-danger').append("<strong>" + errorMessage + "</strong>");
                     $('#success > .alert-danger').append('</div>');
                     //clear all fields
                     $('#contactForm').trigger("reset");

@@ -1,0 +1,18 @@
+{
+  "name": "noriade-website",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "modulePathIgnorePatterns": [
+      "<rootDir>/_site/"
+    ]
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jsdom": "^24.0.0",
+    "jquery": "^3.7.1"
+  }
+}

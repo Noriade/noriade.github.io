@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<feed xmlns="http://www.w3.org/2005/Atom" >
-  <generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <link href="https://noriade.com/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://noriade.com/" rel="alternate" type="text/html" />
-  <updated>2019-06-06T19:28:31+07:00</updated>
+  <updated>2026-03-14T20:56:36+00:00</updated>
   <id>https://noriade.com/</id>
 
   
-    <title type="html">{“fr”=&amp;gt;”Hebergement web professionnel et Infogerance - Noriade”, “en”=&amp;gt;”Web hosting and Outsourcing - Noriade”}</title>
+    <title type="html">Hébergement web professionnel, Infogérance, Audit et Conseil - Noriade.com</title>
   
 
   
-    <subtitle>{&quot;fr&quot;=&gt;&quot;Hébergement web, solutions de messagerie, Infogérance, Web Marketing, découvrez toutes nos offres et solutions pour entreprises, professionnels et particuliers.&quot;, &quot;en&quot;=&gt;&quot;Noriade is a company specialized in professional high availability web hosting, outsourcing and web marketing.&quot;}</subtitle>
+    <subtitle>Noriade.com propose des solutions d&apos;hébergement web sur mesure et d&apos;infogérance pour les professionnels et les entreprises. Nos experts techniques peut également intervenir pour des missions d&apos;audit et de conseil en sécurité, référencement, web marketing ou encore sur la gestion des réseaux sociaux</subtitle>
   
 
   
@@ -20,18 +20,18 @@
   
   
     <entry xml:lang="fr">
-      <title type="html">Découvrez nos offres Office365</title>
-      <link href="https://noriade.com/blog/2019-06-06-offres-office365/" rel="alternate" type="text/html" title="Découvrez nos offres Office365" />
-      <published>2019-06-06T00:00:00+07:00</published>
-      <updated>2019-06-06T00:00:00+07:00</updated>
+      <title type="html">Decouvrez nos offres Office365</title>
+      <link href="https://noriade.com/blog/2019-06-06-offres-office365/" rel="alternate" type="text/html" title="Decouvrez nos offres Office365" />
+      <published>2019-06-06T00:00:00+00:00</published>
+      <updated>2019-06-06T00:00:00+00:00</updated>
       <id>https://noriade.com/blog/offres-office365</id>
-      <content type="html" xml:base="https://noriade.com/blog/2019-06-06-offres-office365/">&lt;p&gt;Membre du réseau Microsoft Partner depuis peu, nous avons mis en ligne de nouvelles &lt;a href=&quot;/hebergement/messagerie/&quot;&gt;offres de messagerie&lt;/a&gt;, et notamment des offres &lt;img src=&quot;/img/microsoft/office-365-48.png&quot; alt=&quot;Microsoft Office365&quot; title=&quot;Microsoft Office365&quot; /&gt; Office365.&lt;/p&gt;
+      <content type="html" xml:base="https://noriade.com/blog/2019-06-06-offres-office365/">&lt;p&gt;Membre du reseau Microsoft Partner depuis peu, nous avons mis en ligne de nouvelles &lt;a href=&quot;/hebergement/messagerie/&quot;&gt;offres de messagerie&lt;/a&gt;, et notamment des offres &lt;img src=&quot;/img/microsoft/office-365-48.png&quot; alt=&quot;Microsoft Office365&quot; title=&quot;Microsoft Office365&quot; /&gt; Office365.&lt;/p&gt;
 
-&lt;p&gt;Notre relation partenaire avec Microsoft nous permet de vous proposer les mêmes offres que sur leur site et vous permettra de bénéficier de notre support et de l’expertise de nos équipes.&lt;/p&gt;
+&lt;p&gt;Notre relation partenaire avec Microsoft nous permet de vous proposer les memes offres que sur leur site et vous permettra de beneficier de notre support et de l’expertise de nos equipes.&lt;/p&gt;
 
-&lt;p&gt;Des offres Exchange et Azure suivront très prochainement.
-&lt;br /&gt;&lt;br /&gt;
-Voici donc les offres que nous proposons à l’heure actuelle :&lt;/p&gt;
+&lt;p&gt;Des offres Exchange et Azure suivront tres prochainement.&lt;/p&gt;
+
+&lt;p&gt;Voici donc les offres que nous proposons a l’heure actuelle :&lt;/p&gt;
 
 &lt;div class=&quot;row&quot;&gt;
 &lt;div class=&quot;col-lg-6&quot;&gt;
@@ -43,19 +43,19 @@ Voici donc les offres que nous proposons à l’heure actuelle :&lt;/p&gt;
     &lt;td class=&quot;tg-0pky&quot;&gt;
     &lt;ul&gt;
     &lt;li&gt;Nom de domaine personnalisable (non inclus)&lt;/li&gt;
-    &lt;li&gt;Espace disque: 50 Go par boîte mail&lt;/li&gt;
+    &lt;li&gt;Espace disque: 50 Go par boite mail&lt;/li&gt;
     &lt;li&gt;&lt;b&gt;Versions web&lt;/b&gt; de Word, Excel et PowerPoint&lt;br /&gt;&lt;img src=&quot;/img/microsoft/microsoft-word-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft Word&quot; title=&quot;Microsoft Word&quot; /&gt;&lt;img src=&quot;/img/microsoft/microsoft-excel-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft Excel&quot; title=&quot;Microsoft Excel&quot; /&gt;&lt;img src=&quot;/img/microsoft/microsoft-powerpoint-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft PowerPoint&quot; title=&quot;Microsoft PowerPoint&quot; /&gt;&lt;img src=&quot;/img/microsoft/microsoft-outlook-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft Outlook&quot; title=&quot;Microsoft Outlook&quot; /&gt;&lt;/li&gt;
     &lt;li&gt;Stockage et partage de fichiers avec 1 To de stockage en ligne &lt;img src=&quot;/img/microsoft/microsoft-onedrive-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft OneDrive&quot; title=&quot;Microsoft OneDrive&quot; /&gt; OneDrive&lt;/li&gt;
-    &lt;li&gt;Intranet d’entreprise et sites d’équipe avec &lt;img src=&quot;/img/microsoft/microsoft-sharepoint-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft SharePoint&quot; title=&quot;Microsoft SharePoint&quot; /&gt; SharePoint&lt;/li&gt;
-    &lt;li&gt;Réunions en ligne et visioconférences pouvant rassembler jusqu’à 250 participants avec &lt;img src=&quot;/img/microsoft/skype-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Skype Entreprise&quot; title=&quot;Skype Entreprise&quot; /&gt; Skype&lt;/li&gt;
-    &lt;li&gt;Plateforme pour connecter vos équipes avec &lt;img src=&quot;/img/microsoft/microsoft-teams-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft Teams&quot; title=&quot;Microsoft Teams&quot; /&gt; Teams&lt;/li&gt;
-    &lt;li&gt;Gérez les tâches et le travail de votre équipe avec le Planificateur Microsoft&lt;/li&gt;
-    &lt;li&gt;Nombre maximal d’utilisateurs: 300&lt;/li&gt;
-    &lt;li&gt;Anti Virus &amp;amp; Anti Spam&lt;/li&gt;  
+    &lt;li&gt;Intranet d&apos;entreprise et sites d&apos;equipe avec &lt;img src=&quot;/img/microsoft/microsoft-sharepoint-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft SharePoint&quot; title=&quot;Microsoft SharePoint&quot; /&gt; SharePoint&lt;/li&gt;
+    &lt;li&gt;Reunions en ligne et visioconferences jusqu&apos;a 250 participants avec &lt;img src=&quot;/img/microsoft/skype-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Skype Entreprise&quot; title=&quot;Skype Entreprise&quot; /&gt; Skype&lt;/li&gt;
+    &lt;li&gt;Plateforme pour connecter vos equipes avec &lt;img src=&quot;/img/microsoft/microsoft-teams-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft Teams&quot; title=&quot;Microsoft Teams&quot; /&gt; Teams&lt;/li&gt;
+    &lt;li&gt;Gerez les taches et le travail de votre equipe avec le Planificateur Microsoft&lt;/li&gt;
+    &lt;li&gt;Nombre maximal d&apos;utilisateurs: 300&lt;/li&gt;
+    &lt;li&gt;Anti Virus &amp;amp; Anti Spam&lt;/li&gt;
     &lt;/ul&gt;&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-    &lt;td class=&quot;tg-c3ow&quot;&gt;4,20 € HT/mois par utilisateur&lt;br /&gt;&lt;small&gt;(payement annuel)&lt;/small&gt;&lt;br /&gt;ou 5,10 € HT/mois par utilisateur&lt;br /&gt;&lt;small&gt;(sans engagement)&lt;/small&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-c3ow&quot;&gt;4,20 EUR HT/mois par utilisateur&lt;br /&gt;&lt;small&gt;(paiement annuel)&lt;/small&gt;&lt;br /&gt;ou 5,10 EUR HT/mois par utilisateur&lt;br /&gt;&lt;small&gt;(sans engagement)&lt;/small&gt;&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td class=&quot;tg-c3ow&quot;&gt;&lt;a href=&quot;/commander/office365/&quot; class=&quot;butn&quot;&gt;Commander&lt;/a&gt;&lt;/td&gt;
@@ -71,19 +71,19 @@ Voici donc les offres que nous proposons à l’heure actuelle :&lt;/p&gt;
     &lt;td class=&quot;tg-0pky&quot;&gt;
     &lt;ul&gt;
     &lt;li&gt;Nom de domaine personnalisable (non inclus)&lt;/li&gt;
-    &lt;li&gt;Espace disque: 50 Go par boîte mail&lt;/li&gt;
+    &lt;li&gt;Espace disque: 50 Go par boite mail&lt;/li&gt;
     &lt;li&gt;&lt;b&gt;Versions de bureau&lt;/b&gt; des logiciels Office sur PC/Mac&lt;br /&gt;&lt;img src=&quot;/img/microsoft/microsoft-word-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft Word&quot; title=&quot;Microsoft Word&quot; /&gt;&lt;img src=&quot;/img/microsoft/microsoft-excel-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft Excel&quot; title=&quot;Microsoft Excel&quot; /&gt;&lt;img src=&quot;/img/microsoft/microsoft-powerpoint-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft PowerPoint&quot; title=&quot;Microsoft PowerPoint&quot; /&gt;&lt;img src=&quot;/img/microsoft/microsoft-outlook-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft Outlook&quot; title=&quot;Microsoft Outlook&quot; /&gt;&lt;/li&gt;
     &lt;li&gt;Stockage et partage de fichiers avec 1 To de stockage en ligne &lt;img src=&quot;/img/microsoft/microsoft-onedrive-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft OneDrive&quot; title=&quot;Microsoft OneDrive&quot; /&gt; OneDrive&lt;/li&gt;
-    &lt;li&gt;Intranet d’entreprise et sites d’équipe avec &lt;img src=&quot;/img/microsoft/microsoft-sharepoint-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft SharePoint&quot; title=&quot;Microsoft SharePoint&quot; /&gt; SharePoint&lt;/li&gt;
-    &lt;li&gt;Réunions en ligne et visioconférences pouvant rassembler jusqu’à 250 participants avec &lt;img src=&quot;/img/microsoft/skype-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Skype Entreprise&quot; title=&quot;Skype Entreprise&quot; /&gt; Skype&lt;/li&gt;
-    &lt;li&gt;Plateforme pour connecter vos équipes avec &lt;img src=&quot;/img/microsoft/microsoft-teams-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft Teams&quot; title=&quot;Microsoft Teams&quot; /&gt; Teams&lt;/li&gt;
-    &lt;li&gt;Gérez les tâches et le travail de votre équipe avec le Planificateur Microsoft&lt;/li&gt;
-    &lt;li&gt;Nombre maximal d’utilisateurs: 300&lt;/li&gt;
-    &lt;li&gt;Anti Virus &amp;amp; Anti Spam&lt;/li&gt;  
+    &lt;li&gt;Intranet d&apos;entreprise et sites d&apos;equipe avec &lt;img src=&quot;/img/microsoft/microsoft-sharepoint-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft SharePoint&quot; title=&quot;Microsoft SharePoint&quot; /&gt; SharePoint&lt;/li&gt;
+    &lt;li&gt;Reunions en ligne et visioconferences jusqu&apos;a 250 participants avec &lt;img src=&quot;/img/microsoft/skype-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Skype Entreprise&quot; title=&quot;Skype Entreprise&quot; /&gt; Skype&lt;/li&gt;
+    &lt;li&gt;Plateforme pour connecter vos equipes avec &lt;img src=&quot;/img/microsoft/microsoft-teams-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft Teams&quot; title=&quot;Microsoft Teams&quot; /&gt; Teams&lt;/li&gt;
+    &lt;li&gt;Gerez les taches et le travail de votre equipe avec le Planificateur Microsoft&lt;/li&gt;
+    &lt;li&gt;Nombre maximal d&apos;utilisateurs: 300&lt;/li&gt;
+    &lt;li&gt;Anti Virus &amp;amp; Anti Spam&lt;/li&gt;
     &lt;/ul&gt;&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-    &lt;td class=&quot;tg-c3ow&quot;&gt;10,50 € HT/mois par utilisateur&lt;br /&gt;&lt;small&gt;(payement annuel)&lt;/small&gt;&lt;br /&gt;ou 12,60 € HT/mois par utilisateur&lt;br /&gt;&lt;small&gt;(sans engagement)&lt;/small&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-c3ow&quot;&gt;10,50 EUR HT/mois par utilisateur&lt;br /&gt;&lt;small&gt;(paiement annuel)&lt;/small&gt;&lt;br /&gt;ou 12,60 EUR HT/mois par utilisateur&lt;br /&gt;&lt;small&gt;(sans engagement)&lt;/small&gt;&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td class=&quot;tg-c3ow&quot;&gt;&lt;a href=&quot;/commander/office365/&quot; class=&quot;butn&quot;&gt;Commander&lt;/a&gt;&lt;/td&gt;
@@ -91,10 +91,10 @@ Voici donc les offres que nous proposons à l’heure actuelle :&lt;/p&gt;
 &lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-N’hésitez pas à nous &lt;a href=&quot;/contact/#contact&quot;&gt;contacter&lt;/a&gt; si vous souhaitez plus d’informations sur ces offres.
-&lt;br /&gt;&lt;br /&gt;
-&lt;i&gt;L’équipe Noriade&lt;/i&gt;&lt;/p&gt;</content>
+
+&lt;p&gt;N’hesitez pas a nous &lt;a href=&quot;/contact/#contact&quot;&gt;contacter&lt;/a&gt; si vous souhaitez plus d’informations sur ces offres.&lt;/p&gt;
+
+&lt;p&gt;L’equipe Noriade&lt;/p&gt;</content>
 
       
       
@@ -115,7 +115,7 @@ N’hésitez pas à nous &lt;a href=&quot;/contact/#contact&quot;&gt;contacter&l
       
 
       
-        <summary type="html">Membre du réseau Microsoft Partner depuis peu, nous avons mis en ligne de nouvelles offres de messagerie, et notamment des offres Office365.</summary>
+        <summary type="html">Membre du reseau Microsoft Partner depuis peu, nous avons mis en ligne de nouvelles offres de messagerie, et notamment des offres Office365.</summary>
       
 
       
@@ -125,16 +125,17 @@ N’hésitez pas à nous &lt;a href=&quot;/contact/#contact&quot;&gt;contacter&l
     <entry xml:lang="en">
       <title type="html">Discover our Office365 offers</title>
       <link href="https://noriade.com/en/blog/2019-06-06-office365-offers/" rel="alternate" type="text/html" title="Discover our Office365 offers" />
-      <published>2019-06-06T00:00:00+07:00</published>
-      <updated>2019-06-06T00:00:00+07:00</updated>
+      <published>2019-06-06T00:00:00+00:00</published>
+      <updated>2019-06-06T00:00:00+00:00</updated>
       <id>https://noriade.com/en/blog/office365-offers</id>
-      <content type="html" xml:base="https://noriade.com/en/blog/2019-06-06-office365-offers/">&lt;p&gt;Member of the Microsoft Partner network recently, we have put online new &lt;a href=&quot;/en/hosting/mails/&quot;&gt;messaging offers&lt;/a&gt;, including &lt;img src=&quot;/img/microsoft/office-365-48.png&quot; alt=&quot;Microsoft Office365&quot; title=&quot;Microsoft Office365&quot; /&gt; Office365 offers.&lt;/p&gt;
+      <content type="html" xml:base="https://noriade.com/en/blog/2019-06-06-office365-offers/">&lt;p&gt;As a recent member of the Microsoft Partner network, we have put new &lt;a href=&quot;/en/hosting/mails/&quot;&gt;messaging offers&lt;/a&gt; online, including &lt;img src=&quot;/img/microsoft/office-365-48.png&quot; alt=&quot;Microsoft Office365&quot; title=&quot;Microsoft Office365&quot; /&gt; Office365 plans.&lt;/p&gt;
 
-&lt;p&gt;Our partner relationship with Microsoft allows us to offer you the same offers as on their site and you will benefit from our support and the expertise of our teams.&lt;/p&gt;
+&lt;p&gt;Our Microsoft partner relationship allows us to offer the same plans as on their website while giving you direct access to our support and operational expertise.&lt;/p&gt;
 
-&lt;p&gt;Exchange and Azure offers will follow very soon.
-&lt;br /&gt;&lt;br /&gt;
-So here are the offers that we offer at the moment :&lt;/p&gt;
+&lt;p&gt;Exchange and Azure offers will follow very soon.&lt;/p&gt;
+
+&lt;p&gt;Here are the plans we currently offer:&lt;/p&gt;
+
 &lt;div class=&quot;row&quot;&gt;
 &lt;div class=&quot;col-lg-6&quot;&gt;
 &lt;table class=&quot;tg&quot;&gt;
@@ -145,19 +146,19 @@ So here are the offers that we offer at the moment :&lt;/p&gt;
     &lt;td class=&quot;tg-0pky&quot;&gt;
     &lt;ul&gt;
     &lt;li&gt;Customizable domain name (not included)&lt;/li&gt;
-    &lt;li&gt;Disk space: 50 Go /mail account&lt;/li&gt;
+    &lt;li&gt;Disk space: 50 Go per mailbox&lt;/li&gt;
     &lt;li&gt;&lt;b&gt;Web versions&lt;/b&gt; of Word, Excel, and PowerPoint&lt;br /&gt;&lt;img src=&quot;/img/microsoft/microsoft-word-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft Word&quot; title=&quot;Microsoft Word&quot; /&gt;&lt;img src=&quot;/img/microsoft/microsoft-excel-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft Excel&quot; title=&quot;Microsoft Excel&quot; /&gt;&lt;img src=&quot;/img/microsoft/microsoft-powerpoint-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft PowerPoint&quot; title=&quot;Microsoft PowerPoint&quot; /&gt;&lt;img src=&quot;/img/microsoft/microsoft-outlook-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft Outlook&quot; title=&quot;Microsoft Outlook&quot; /&gt;&lt;/li&gt;
     &lt;li&gt;File storage and sharing with 1 TB of &lt;img src=&quot;/img/microsoft/microsoft-onedrive-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft OneDrive&quot; title=&quot;Microsoft OneDrive&quot; /&gt; OneDrive storage&lt;/li&gt;
     &lt;li&gt;Company-wide intranet and team sites with &lt;img src=&quot;/img/microsoft/microsoft-sharepoint-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft SharePoint&quot; title=&quot;Microsoft SharePoint&quot; /&gt; SharePoint&lt;/li&gt;
     &lt;li&gt;Online meetings and video conferencing for up to 250 people with &lt;img src=&quot;/img/microsoft/skype-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Skype Entreprise&quot; title=&quot;Skype Entreprise&quot; /&gt; Skype&lt;/li&gt;
-    &lt;li&gt;Hub for teamwork to connect your teams with &lt;img src=&quot;/img/microsoft/microsoft-teams-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft Teams&quot; title=&quot;Microsoft Teams&quot; /&gt; Teams&lt;/li&gt;
+    &lt;li&gt;Hub for teamwork with &lt;img src=&quot;/img/microsoft/microsoft-teams-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft Teams&quot; title=&quot;Microsoft Teams&quot; /&gt; Teams&lt;/li&gt;
     &lt;li&gt;Manage tasks and teamwork with Microsoft Planner&lt;/li&gt;
     &lt;li&gt;Maximum number of users: 300&lt;/li&gt;
-    &lt;li&gt;Anti Virus &amp;amp; Anti Spam&lt;/li&gt;  
+    &lt;li&gt;Anti Virus &amp;amp; Anti Spam&lt;/li&gt;
     &lt;/ul&gt;&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-    &lt;td class=&quot;tg-c3ow&quot;&gt;4,20 € ex.VAT/user/month&lt;br /&gt;&lt;small&gt;(annual payment)&lt;/small&gt;&lt;br /&gt;or 5,10 € ex.VAT/user/month&lt;br /&gt;&lt;small&gt;(without engagement)&lt;/small&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-c3ow&quot;&gt;4,20 EUR ex. VAT/user/month&lt;br /&gt;&lt;small&gt;(annual payment)&lt;/small&gt;&lt;br /&gt;or 5,10 EUR ex. VAT/user/month&lt;br /&gt;&lt;small&gt;(without commitment)&lt;/small&gt;&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td class=&quot;tg-c3ow&quot;&gt;&lt;a href=&quot;/en/order/office365/&quot; class=&quot;butn&quot;&gt;Order&lt;/a&gt;&lt;/td&gt;
@@ -173,19 +174,19 @@ So here are the offers that we offer at the moment :&lt;/p&gt;
     &lt;td class=&quot;tg-0pky&quot;&gt;
     &lt;ul&gt;
     &lt;li&gt;Customizable domain name (not included)&lt;/li&gt;
-    &lt;li&gt;Disk space: 50 Go /mail account&lt;/li&gt;
+    &lt;li&gt;Disk space: 50 Go per mailbox&lt;/li&gt;
     &lt;li&gt;&lt;b&gt;Desktop versions&lt;/b&gt; of Office apps on PC/Mac&lt;br /&gt;&lt;img src=&quot;/img/microsoft/microsoft-word-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft Word&quot; title=&quot;Microsoft Word&quot; /&gt;&lt;img src=&quot;/img/microsoft/microsoft-excel-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft Excel&quot; title=&quot;Microsoft Excel&quot; /&gt;&lt;img src=&quot;/img/microsoft/microsoft-powerpoint-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft PowerPoint&quot; title=&quot;Microsoft PowerPoint&quot; /&gt;&lt;img src=&quot;/img/microsoft/microsoft-outlook-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft Outlook&quot; title=&quot;Microsoft Outlook&quot; /&gt;&lt;/li&gt;
     &lt;li&gt;File storage and sharing with 1 TB of &lt;img src=&quot;/img/microsoft/microsoft-onedrive-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft OneDrive&quot; title=&quot;Microsoft OneDrive&quot; /&gt; OneDrive storage&lt;/li&gt;
-    &lt;li&gt;Company-wide intranet and team sites with &lt;img src=&quot;/img/microsoft/microsoft-sharepoint-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft Sharepoint&quot; title=&quot;Microsoft SharePoint&quot; /&gt; SharePoint&lt;/li&gt;
+    &lt;li&gt;Company-wide intranet and team sites with &lt;img src=&quot;/img/microsoft/microsoft-sharepoint-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft SharePoint&quot; title=&quot;Microsoft SharePoint&quot; /&gt; SharePoint&lt;/li&gt;
     &lt;li&gt;Online meetings and video conferencing for up to 250 people with &lt;img src=&quot;/img/microsoft/skype-2019-48.png&quot; width=&quot;36&quot; alt=&quot;Skype Entreprise&quot; title=&quot;Skype Entreprise&quot; /&gt; Skype&lt;/li&gt;
-    &lt;li&gt;Hub for teamwork to connect your teams with &lt;img src=&quot;/img/microsoft/microsoft-teams-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft Teams&quot; title=&quot;Microsoft Teams&quot; /&gt; Teams&lt;/li&gt;
+    &lt;li&gt;Hub for teamwork with &lt;img src=&quot;/img/microsoft/microsoft-teams-48.png&quot; width=&quot;36&quot; alt=&quot;Microsoft Teams&quot; title=&quot;Microsoft Teams&quot; /&gt; Teams&lt;/li&gt;
     &lt;li&gt;Manage tasks and teamwork with Microsoft Planner&lt;/li&gt;
     &lt;li&gt;Maximum number of users: 300&lt;/li&gt;
-    &lt;li&gt;Anti Virus &amp;amp; Anti Spam&lt;/li&gt;  
+    &lt;li&gt;Anti Virus &amp;amp; Anti Spam&lt;/li&gt;
     &lt;/ul&gt;&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-    &lt;td class=&quot;tg-c3ow&quot;&gt;10,50 € ex.VAT/user/month&lt;br /&gt;&lt;small&gt;(annual payment)&lt;/small&gt;&lt;br /&gt;or 12,60 € ex.VAT/user/month&lt;br /&gt;&lt;small&gt;(without engagement)&lt;/small&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-c3ow&quot;&gt;10,50 EUR ex. VAT/user/month&lt;br /&gt;&lt;small&gt;(annual payment)&lt;/small&gt;&lt;br /&gt;or 12,60 EUR ex. VAT/user/month&lt;br /&gt;&lt;small&gt;(without commitment)&lt;/small&gt;&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td class=&quot;tg-c3ow&quot;&gt;&lt;a href=&quot;/en/order/office365/&quot; class=&quot;butn&quot;&gt;Order&lt;/a&gt;&lt;/td&gt;
@@ -193,48 +194,8 @@ So here are the offers that we offer at the moment :&lt;/p&gt;
 &lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-Do not hesitate to &lt;a href=&quot;/en/contact/#contact&quot;&gt;contact us&lt;/a&gt; if you want more information about these offers.
-&lt;br /&gt;&lt;br /&gt;
-&lt;i&gt;The Noriade Team&lt;/i&gt;&lt;/p&gt;</content>
 
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Blog" />
-      
-
-      
-
-      
-        <summary type="html">Member of the Microsoft Partner network recently, we have put online new messaging offers, including Office365 offers.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry xml:lang="en">
-      <title type="html">New customer Samathi Lake</title>
-      <link href="https://noriade.com/en/blog/2019-04-25-new-customer-samathi-lake/" rel="alternate" type="text/html" title="New customer Samathi Lake" />
-      <published>2019-04-25T00:00:00+07:00</published>
-      <updated>2019-04-25T00:00:00+07:00</updated>
-      <id>https://noriade.com/en/blog/new-customer-samathi-lake</id>
-      <content type="html" xml:base="https://noriade.com/en/blog/2019-04-25-new-customer-samathi-lake/">&lt;p&gt;We welcome a new customer, &lt;a href=&quot;http://www.samathilake.com&quot; target=&quot;_blank&quot; alt=&quot;Hotel Phnom Penh&quot; title=&quot;Hotel Phnom Penh&quot;&gt;Samathi Lake Resort&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Located on the outskirts of Phnom Penh in Cambodia, this hotel has decided to trust us in the realization and hosting of its website based on Wordpress.&lt;/p&gt;
-
-&lt;p&gt;Feel free to check out their website for more information: &lt;a href=&quot;http://www.samathilake.com&quot; target=&quot;_blank&quot; alt=&quot;Samathi Lake Resort Phnom Penh&quot; title=&quot;Samathi Lake Resort Phnom Penh&quot;&gt;www.samathilake.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Feel free to &lt;a href=&quot;/en/contact/#contact&quot;&gt;contact us&lt;/a&gt; if you want more information about these offers.&lt;/p&gt;
 
 &lt;p&gt;The Noriade team&lt;/p&gt;</content>
 
@@ -257,7 +218,47 @@ Do not hesitate to &lt;a href=&quot;/en/contact/#contact&quot;&gt;contact us&lt;
       
 
       
-        <summary type="html">We welcome a new customer, Samathi Lake Resort!</summary>
+        <summary type="html">As a recent member of the Microsoft Partner network, we have put new messaging offers online, including Office365 plans.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry xml:lang="en">
+      <title type="html">New customer Samathi Lake</title>
+      <link href="https://noriade.com/en/blog/2019-04-25-new-customer-samathi-lake/" rel="alternate" type="text/html" title="New customer Samathi Lake" />
+      <published>2019-04-25T00:00:00+00:00</published>
+      <updated>2019-04-25T00:00:00+00:00</updated>
+      <id>https://noriade.com/en/blog/new-customer-samathi-lake</id>
+      <content type="html" xml:base="https://noriade.com/en/blog/2019-04-25-new-customer-samathi-lake/">&lt;p&gt;We welcome a new customer, &lt;a href=&quot;http://www.samathilake.com&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Samathi Lake Resort&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Located on the outskirts of Phnom Penh in Cambodia, this hotel trusted us with the delivery and hosting of its Wordpress-based website.&lt;/p&gt;
+
+&lt;p&gt;Feel free to visit their website for more information: &lt;a href=&quot;http://www.samathilake.com&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;www.samathilake.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The Noriade team&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Blog" />
+      
+
+      
+
+      
+        <summary type="html">We welcome a new customer, Samathi Lake Resort.</summary>
       
 
       
@@ -265,18 +266,18 @@ Do not hesitate to &lt;a href=&quot;/en/contact/#contact&quot;&gt;contact us&lt;
     </entry>
   
     <entry xml:lang="fr">
-      <title type="html">Création site internet Samathi Lake</title>
-      <link href="https://noriade.com/blog/2019-04-25-creation-site-samathi-lake/" rel="alternate" type="text/html" title="Création site internet Samathi Lake" />
-      <published>2019-04-25T00:00:00+07:00</published>
-      <updated>2019-04-25T00:00:00+07:00</updated>
+      <title type="html">Creation site internet Samathi Lake</title>
+      <link href="https://noriade.com/blog/2019-04-25-creation-site-samathi-lake/" rel="alternate" type="text/html" title="Creation site internet Samathi Lake" />
+      <published>2019-04-25T00:00:00+00:00</published>
+      <updated>2019-04-25T00:00:00+00:00</updated>
       <id>https://noriade.com/blog/creation-site-samathi-lake</id>
-      <content type="html" xml:base="https://noriade.com/blog/2019-04-25-creation-site-samathi-lake/">&lt;p&gt;Nous accueillons un nouveau client, &lt;a href=&quot;http://www.samathilake.com&quot; target=&quot;_blank&quot; alt=&quot;Hotel Phnom Penh&quot; title=&quot;Hotel Phnom Penh&quot;&gt;Samathi Lake Resort&lt;/a&gt; !&lt;/p&gt;
+      <content type="html" xml:base="https://noriade.com/blog/2019-04-25-creation-site-samathi-lake/">&lt;p&gt;Nous accueillons un nouveau client, &lt;a href=&quot;http://www.samathilake.com&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Samathi Lake Resort&lt;/a&gt; !&lt;/p&gt;
 
-&lt;p&gt;Situé en périphérie de Phnom Penh au Cambodge, cet établissement hotelier a décidé de nous faire confiance dans la réalisation et l’hébergement de son site internet basé sur Wordpress.&lt;/p&gt;
+&lt;p&gt;Situe en peripherie de Phnom Penh au Cambodge, cet etablissement hotelier a decide de nous faire confiance pour la realisation et l’hebergement de son site internet sous Wordpress.&lt;/p&gt;
 
-&lt;p&gt;N’hésitez pas à faire un tour sur leur site internet pour plus d’informations : &lt;a href=&quot;http://www.samathilake.com&quot; target=&quot;_blank&quot; alt=&quot;Samathi Lake Resort Phnom Penh&quot; title=&quot;Samathi Lake Resort Phnom Penh&quot;&gt;www.samathilake.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;N’hesitez pas a faire un tour sur leur site internet pour plus d’informations : &lt;a href=&quot;http://www.samathilake.com&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;www.samathilake.com&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;i&gt;L’équipe Noriade&lt;/i&gt;&lt;/p&gt;</content>
+&lt;p&gt;L’equipe Noriade&lt;/p&gt;</content>
 
       
       
@@ -307,18 +308,18 @@ Do not hesitate to &lt;a href=&quot;/en/contact/#contact&quot;&gt;contact us&lt;
     <entry xml:lang="fr">
       <title type="html">Nouveau site LeBonbon</title>
       <link href="https://noriade.com/blog/2019-01-24-nouveau-site-lebonbon/" rel="alternate" type="text/html" title="Nouveau site LeBonbon" />
-      <published>2019-01-24T00:00:00+07:00</published>
-      <updated>2019-01-24T00:00:00+07:00</updated>
+      <published>2019-01-24T00:00:00+00:00</published>
+      <updated>2019-01-24T00:00:00+00:00</updated>
       <id>https://noriade.com/blog/nouveau-site-lebonbon</id>
-      <content type="html" xml:base="https://noriade.com/blog/2019-01-24-nouveau-site-lebonbon/">&lt;p&gt;Client depuis plusieurs années désormais, &lt;a href=&quot;https://www.lebonbon.fr/&quot; target=&quot;_blank&quot; alt=&quot;LeBonbon.fr&quot; title=&quot;LeBonbon.fr&quot;&gt;Le Bonbon&lt;/a&gt;, magazine en ligne et papier distribué gratuitement chaque mois dans les plus grandes villes de France, fait peau neuve !&lt;/p&gt;
+      <content type="html" xml:base="https://noriade.com/blog/2019-01-24-nouveau-site-lebonbon/">&lt;p&gt;Client depuis plusieurs annees desormais, &lt;a href=&quot;https://www.lebonbon.fr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Le Bonbon&lt;/a&gt;, magazine en ligne et papier distribue gratuitement chaque mois dans les plus grandes villes de France, fait peau neuve !&lt;/p&gt;
 
-&lt;p&gt;Peu de changements graphiques à l’horizon, c’est le coeur du site et son infrastructure qui évoluent.&lt;/p&gt;
+&lt;p&gt;Peu de changements graphiques a l’horizon, c’est le coeur du site et son infrastructure qui evoluent.&lt;/p&gt;
 
-&lt;p&gt;Nous espérons que ces changements rendront le site plus évolutif, plus performant et encore plus stable.&lt;/p&gt;
+&lt;p&gt;Nous esperons que ces changements rendront le site plus evolutif, plus performant et encore plus stable.&lt;/p&gt;
 
-&lt;p&gt;Retrouvez toutes l’actu du Bonbon sur leur site internet : &lt;a href=&quot;https://lebonbon.fr&quot; target=&quot;blank&quot; alt=&quot;LeBonbon.fr&quot; title=&quot;LeBonbon.fr&quot;&gt;www.lebonbon.fr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Retrouvez toute l’actu du Bonbon sur leur site internet : &lt;a href=&quot;https://lebonbon.fr&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;www.lebonbon.fr&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;i&gt;L’équipe Noriade&lt;/i&gt;&lt;/p&gt;</content>
+&lt;p&gt;L’equipe Noriade&lt;/p&gt;</content>
 
       
       
@@ -339,7 +340,7 @@ Do not hesitate to &lt;a href=&quot;/en/contact/#contact&quot;&gt;contact us&lt;
       
 
       
-        <summary type="html">Client depuis plusieurs années désormais, Le Bonbon, magazine en ligne et papier distribué gratuitement chaque mois dans les plus grandes villes de France, fait peau neuve !</summary>
+        <summary type="html">Client depuis plusieurs annees desormais, Le Bonbon, magazine en ligne et papier distribue gratuitement chaque mois dans les plus grandes villes de France, fait peau neuve !</summary>
       
 
       
@@ -349,16 +350,16 @@ Do not hesitate to &lt;a href=&quot;/en/contact/#contact&quot;&gt;contact us&lt;
     <entry xml:lang="en">
       <title type="html">New website LeBonbon</title>
       <link href="https://noriade.com/en/blog/2019-01-24-new-website-lebonbon/" rel="alternate" type="text/html" title="New website LeBonbon" />
-      <published>2019-01-24T00:00:00+07:00</published>
-      <updated>2019-01-24T00:00:00+07:00</updated>
+      <published>2019-01-24T00:00:00+00:00</published>
+      <updated>2019-01-24T00:00:00+00:00</updated>
       <id>https://noriade.com/en/blog/new-website-lebonbon</id>
-      <content type="html" xml:base="https://noriade.com/en/blog/2019-01-24-new-website-lebonbon/">&lt;p&gt;Customer for several years now, &lt;a href=&quot;https://www.lebonbon.fr/&quot; target=&quot;_blank&quot; alt=&quot;LeBonbon.fr&quot; title=&quot;LeBonbon.fr&quot;&gt;Le Bonbon&lt;/a&gt;, online magazine and paper distributed free of charge each month in the largest cities in France, is getting a makeover!&lt;/p&gt;
+      <content type="html" xml:base="https://noriade.com/en/blog/2019-01-24-new-website-lebonbon/">&lt;p&gt;Customer for several years now, &lt;a href=&quot;https://www.lebonbon.fr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Le Bonbon&lt;/a&gt;, an online magazine and print publication distributed free of charge each month in the largest cities in France, is getting a makeover.&lt;/p&gt;
 
-&lt;p&gt;Few graphic changes on the horizon, it is the heart of the site and its infrastructure that evolve.&lt;/p&gt;
+&lt;p&gt;Few graphic changes are visible on the surface. The main evolution is in the core platform and its infrastructure.&lt;/p&gt;
 
-&lt;p&gt;We hope that these changes will make the site more scalable, more efficient and even more stable.&lt;/p&gt;
+&lt;p&gt;We expect these changes to make the site more scalable, more efficient and even more stable.&lt;/p&gt;
 
-&lt;p&gt;Find all the Bonbon news on their website: &lt;a href=&quot;https://lebonbon.fr&quot; target=&quot;blank&quot; alt=&quot;LeBonbon.fr&quot; title=&quot;LeBonbon.fr&quot;&gt;www.lebonbon.fr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Find all the latest Bonbon news on their website: &lt;a href=&quot;https://lebonbon.fr&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;www.lebonbon.fr&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The Noriade team&lt;/p&gt;</content>
 
@@ -381,7 +382,7 @@ Do not hesitate to &lt;a href=&quot;/en/contact/#contact&quot;&gt;contact us&lt;
       
 
       
-        <summary type="html">Customer for several years now, Le Bonbon, online magazine and paper distributed free of charge each month in the largest cities in France, is getting a makeover!</summary>
+        <summary type="html">Customer for several years now, Le Bonbon, an online magazine and print publication distributed free of charge each month in the largest cities in France, is getting a makeover.</summary>
       
 
       
@@ -391,16 +392,14 @@ Do not hesitate to &lt;a href=&quot;/en/contact/#contact&quot;&gt;contact us&lt;
     <entry xml:lang="en">
       <title type="html">Piwik Installation</title>
       <link href="https://noriade.com/en/blog/2015-03-18-piwik-installation/" rel="alternate" type="text/html" title="Piwik Installation" />
-      <published>2015-03-18T00:00:00+07:00</published>
-      <updated>2015-03-18T00:00:00+07:00</updated>
+      <published>2015-03-18T00:00:00+00:00</published>
+      <updated>2015-03-18T00:00:00+00:00</updated>
       <id>https://noriade.com/en/blog/piwik-installation</id>
-      <content type="html" xml:base="https://noriade.com/en/blog/2015-03-18-piwik-installation/">&lt;p&gt;For the past few days, we have been offering our customers who wish to use our platform Piwik to make audience measurements on their websites and web applications.&lt;/p&gt;
+      <content type="html" xml:base="https://noriade.com/en/blog/2015-03-18-piwik-installation/">&lt;p&gt;We now provide customers with access to our Piwik analytics platform so they can measure traffic on their websites and web applications.&lt;/p&gt;
 
-&lt;p&gt;For those who do not know yet, &lt;a title=&quot;Piwik&quot; href=&quot;http://piwik.org/&quot; target=&quot;_blank&quot;&gt;Piwik&lt;/a&gt; is an open source audience measurement tool (free of charge). The strength of this solution is the importance attached to the respect of privacy and personal data collected. Piwik is recommended in particular by the National Commission for Informatics and Liberties (&lt;a title=&quot;CNIL&quot; href=&quot;http://www.cnil.fr/vos-obligations/sites-web-cookies-et-autres-traceurs/outils-et-codes-sources/la-mesure-daudience/&quot; target=&quot;_blank&quot;&gt;CNIL&lt;/a&gt;) as well as by the body for protection of privacy in Germany (&lt;a title=&quot;ULD&quot; href=&quot;https://www.datenschutzzentrum.de/&quot; target=&quot;_blank&quot;&gt;ULD&lt;/a&gt;). It’s a very credible alternative to Google Analytics.&lt;/p&gt;
+&lt;p&gt;For teams that do not know Piwik yet, it is an open source analytics solution focused on audience measurement while keeping stronger control over privacy and collected data than many mainstream alternatives.&lt;/p&gt;
 
-&lt;p&gt;Do not hesitate to contact our team if you wish to use our Piwik platform or if you have any questions concerning its use.&lt;/p&gt;
-
-&lt;p&gt;The Noriade team&lt;/p&gt;</content>
+&lt;p&gt;If you would like to use this platform or discuss analytics requirements for one of your projects, contact the Noriade team.&lt;/p&gt;</content>
 
       
       
@@ -421,7 +420,7 @@ Do not hesitate to &lt;a href=&quot;/en/contact/#contact&quot;&gt;contact us&lt;
       
 
       
-        <summary type="html">For the past few days, we have been offering our customers who wish to use our platform Piwik to make audience measurements on their websites and web applications.</summary>
+        <summary type="html">We now provide customers with access to our Piwik analytics platform so they can measure traffic on their websites and web applications.</summary>
       
 
       
@@ -431,16 +430,16 @@ Do not hesitate to &lt;a href=&quot;/en/contact/#contact&quot;&gt;contact us&lt;
     <entry xml:lang="fr">
       <title type="html">Mise à disposition de Piwik</title>
       <link href="https://noriade.com/blog/2015-03-18-mise-a-dispo-piwik/" rel="alternate" type="text/html" title="Mise à disposition de Piwik" />
-      <published>2015-03-18T00:00:00+07:00</published>
-      <updated>2015-03-18T00:00:00+07:00</updated>
+      <published>2015-03-18T00:00:00+00:00</published>
+      <updated>2015-03-18T00:00:00+00:00</updated>
       <id>https://noriade.com/blog/mise-a-dispo-piwik</id>
       <content type="html" xml:base="https://noriade.com/blog/2015-03-18-mise-a-dispo-piwik/">&lt;p&gt;Nous proposons, depuis quelques jours, à nos clients qui le souhaitent, de pouvoir utiliser notre plateforme Piwik afin d’effectuer des mesures d’audience sur leurs sites internet et applications web.&lt;/p&gt;
 
-&lt;p&gt;Pour ceux qui ne connaissent pas encore, &lt;a title=&quot;Piwik&quot; href=&quot;http://piwik.org/&quot; target=&quot;_blank&quot;&gt;Piwik&lt;/a&gt; est un outil de mesure d’audience open source (gratuit donc). Le point fort de cette solution est l’importance attachée au respect de la vie privée et des données personnelles collectées. Piwik est notamment recommandé par la Commission nationale de l’informatique et des libertés (&lt;a title=&quot;CNIL&quot; href=&quot;http://www.cnil.fr/vos-obligations/sites-web-cookies-et-autres-traceurs/outils-et-codes-sources/la-mesure-daudience/&quot; target=&quot;_blank&quot;&gt;CNIL&lt;/a&gt;) ainsi que par l’organisme de protection de la vie privée en Allemagne (&lt;a title=&quot;ULD&quot; href=&quot;https://www.datenschutzzentrum.de/&quot; target=&quot;_blank&quot;&gt;ULD&lt;/a&gt;). C’est une alternative très crédible à Google Analytics.&lt;/p&gt;
+&lt;p&gt;Pour ceux qui ne connaissent pas encore, &lt;a title=&quot;Piwik&quot; href=&quot;http://piwik.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Piwik&lt;/a&gt; est un outil de mesure d’audience open source (gratuit donc). Le point fort de cette solution est l’importance attachée au respect de la vie privée et des données personnelles collectées. Piwik est notamment recommandé par la Commission nationale de l’informatique et des libertés (&lt;a title=&quot;CNIL&quot; href=&quot;http://www.cnil.fr/vos-obligations/sites-web-cookies-et-autres-traceurs/outils-et-codes-sources/la-mesure-daudience/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;CNIL&lt;/a&gt;) ainsi que par l’organisme de protection de la vie privée en Allemagne (&lt;a title=&quot;ULD&quot; href=&quot;https://www.datenschutzzentrum.de/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;ULD&lt;/a&gt;). C’est une alternative très crédible à Google Analytics.&lt;/p&gt;
 
 &lt;p&gt;N’hésitez pas à contacter notre équipe si vous souhaitez utiliser notre plateforme Piwik ou si vous avez des questions concernant son utilisation.&lt;/p&gt;
 
-&lt;p&gt;&lt;i&gt;L’équipe Noriade&lt;/i&gt;&lt;/p&gt;</content>
+&lt;p&gt;L’équipe de Noriade.com&lt;/p&gt;</content>
 
       
       
@@ -471,8 +470,8 @@ Do not hesitate to &lt;a href=&quot;/en/contact/#contact&quot;&gt;contact us&lt;
     <entry xml:lang="en">
       <title type="html">Opening of our website</title>
       <link href="https://noriade.com/en/blog/2015-03-12-website-opening/" rel="alternate" type="text/html" title="Opening of our website" />
-      <published>2015-03-12T00:00:00+07:00</published>
-      <updated>2015-03-12T00:00:00+07:00</updated>
+      <published>2015-03-12T00:00:00+00:00</published>
+      <updated>2015-03-12T00:00:00+00:00</updated>
       <id>https://noriade.com/en/blog/website-opening</id>
       <content type="html" xml:base="https://noriade.com/en/blog/2015-03-12-website-opening/">&lt;p&gt;Hello and welcome to our new website!&lt;/p&gt;
 
@@ -482,7 +481,7 @@ Do not hesitate to &lt;a href=&quot;/en/contact/#contact&quot;&gt;contact us&lt;
 
 &lt;p&gt;An integrated chat on our site is available to answer your questions and requests. Don’t hesitate to give us your comments, suggestions and any bugs you may encounter while browsing or contact our team for more information about our services.&lt;/p&gt;
 
-&lt;p&gt;The Noriade team&lt;/p&gt;</content>
+&lt;p&gt;The team of Noriade.com&lt;/p&gt;</content>
 
       
       
@@ -513,8 +512,8 @@ Do not hesitate to &lt;a href=&quot;/en/contact/#contact&quot;&gt;contact us&lt;
     <entry xml:lang="fr">
       <title type="html">Ouverture de notre site internet</title>
       <link href="https://noriade.com/blog/2015-03-12-ouverture-site-internet/" rel="alternate" type="text/html" title="Ouverture de notre site internet" />
-      <published>2015-03-12T00:00:00+07:00</published>
-      <updated>2015-03-12T00:00:00+07:00</updated>
+      <published>2015-03-12T00:00:00+00:00</published>
+      <updated>2015-03-12T00:00:00+00:00</updated>
       <id>https://noriade.com/blog/ouverture-site-internet</id>
       <content type="html" xml:base="https://noriade.com/blog/2015-03-12-ouverture-site-internet/">&lt;p&gt;Bonjour à tous et à toutes et bienvenue sur notre nouveau site internet !&lt;/p&gt;
 
@@ -526,7 +525,7 @@ Do not hesitate to &lt;a href=&quot;/en/contact/#contact&quot;&gt;contact us&lt;
 
 &lt;p&gt;Bonne visite !&lt;/p&gt;
 
-&lt;p&gt;&lt;i&gt;L’équipe Noriade&lt;/i&gt;&lt;/p&gt;</content>
+&lt;p&gt;L’équipe de Noriade.com&lt;/p&gt;</content>
 
       
       
