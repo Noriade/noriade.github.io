@@ -12,21 +12,18 @@ if(empty($_POST['name'])  		||
    }
 
 $name = $_POST['name'];
-// Sanitize to prevent email header injection (CR/LF in subject / reply-to)
-$name = preg_replace('/[\r\n]+/', ' ', $name);
-$message = $_POST['message'];
-$message = preg_replace('/[\r\n]+/', ' ', $message);
 if ($email_address === FALSE) {
     echo 'Invalid email';
     exit(1);
 }
 //$phone = $_POST['phone'];
+$message = $_POST['message'];
 
 
 // Create the email and send the message
 $to = 'contact@noriade.com'; // Add your email address inbetween the '' replacing yourname@yourdomain.com - This is where the form will send a message to.
 $email_subject = "Website Contact Form:  $name";
-$email_body = "You have received a new message from your website contact form.\n\n". "Here are the details:\n\nName: $name\n\nEmail: $email_address\n\nMessage:\n$message";
+$email_body = "You have received a new message from your website contact form.\n\n"."Here are the details:\n\nName: $name\n\nEmail: $email_address\n\nMessage:\n$message";
 $headers = "From: noreply@noriade.com\n"; // This is the email address the generated message will be from. We recommend using something like noreply@yourdomain.com.
 $headers .= "Reply-To: $email_address";
 mail($to,$email_subject,$email_body,$headers);
