@@ -1,0 +1,24 @@
+.analytics-consent {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  z-index: 10000;
+  max-width: 30rem;
+  padding: 1rem 1.25rem;
+  color: #222;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, .2);
+  font-size: .9rem;
+}
+
+.analytics-consent p { margin: 0 0 .75rem; }
+.analytics-consent__actions { display: flex; gap: .5rem; justify-content: flex-end; }
+.analytics-consent button { padding: .45rem .8rem; border: 1px solid #777; border-radius: 3px; cursor: pointer; }
+.analytics-consent__accept { color: #fff; background: #2c3e50; }
+.analytics-consent__refuse { color: #222; background: #fff; }
+
+@media (max-width: 600px) {
+  .analytics-consent { right: .5rem; bottom: .5rem; left: .5rem; }
+}
