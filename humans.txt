@@ -1,0 +1,8 @@
+/* TEAM */
+Noriade SAS
+Website: https://noriade.com/
+Contact: contact@noriade.com
+
+/* SITE */
+Language: French / English
+Standards: HTML5, CSS3, JSON-LD

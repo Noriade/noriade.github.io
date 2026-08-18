@@ -1,0 +1,23 @@
+# Noriade
+
+> Noriade fournit des services d’hébergement web, d’infogérance, d’audit et de conseil technique pour les sites, applications et infrastructures web.
+
+## Site
+
+- Site principal : https://noriade.com/
+- Version anglaise : https://noriade.com/en/
+- Contact : https://noriade.com/contact/
+- Services : https://noriade.com/services/
+- Hébergement : https://noriade.com/hebergement/
+- Blog : https://noriade.com/blog/
+- Mentions légales : https://noriade.com/mentions-legales/
+- Flux RSS : https://noriade.com/feed.xml
+- Sitemap : https://noriade.com/sitemap.xml
+
+## Langues
+
+Le site propose des pages en français et en anglais. Les URLs anglaises utilisent le préfixe `/en/`.
+
+## Contact et attribution
+
+Noriade SAS — 25 rue de Ponthieu, 75008 Paris, France — contact@noriade.com.
