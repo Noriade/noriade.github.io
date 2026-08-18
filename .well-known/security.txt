@@ -1,0 +1,4 @@
+Contact: mailto:contact@noriade.com
+Canonical: https://noriade.com/.well-known/security.txt
+Preferred-Languages: fr, en
+Expires: 2027-08-18T00:00:00.000Z
