@@ -35,6 +35,11 @@ $(function() {
                     $('#success > .alert-success').append("<strong>" + successMessage + "</strong>");
                     $('#success > .alert-success').append('</div>');
                     $('#contactForm').trigger("reset");
+                    if (typeof window !== "undefined" && typeof window.dispatchEvent === "function") {
+                        var analyticsEvent = window.document.createEvent("Event");
+                        analyticsEvent.initEvent("noriade:contact-success", false, false);
+                        window.dispatchEvent(analyticsEvent);
+                    }
                 },
                 error: function() {
                     $('#success').html("<div class='alert alert-danger'>");

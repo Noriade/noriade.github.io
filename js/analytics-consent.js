@@ -30,8 +30,28 @@
     document.head.appendChild(script);
   }
 
+  function trackEvent(name, parameters) {
+    if (window.__noriadeAnalyticsLoaded && typeof window.gtag === 'function') {
+      window.gtag('event', name, parameters || {});
+    }
+  }
+
   function saveConsent(value) {
     try { window.localStorage.setItem(consentKey, value); } catch (error) { /* private browsing */ }
+  }
+
+  function showManageControl() {
+    if (document.querySelector('.analytics-consent__manage')) return;
+    var control = document.createElement('button');
+    control.type = 'button';
+    control.className = 'analytics-consent__manage';
+    control.textContent = isEnglish ? 'Cookie settings' : 'Gérer mes cookies';
+    control.addEventListener('click', function () {
+      saveConsent('');
+      control.remove();
+      showBanner();
+    });
+    document.body.appendChild(control);
   }
 
   function showBanner() {
@@ -49,14 +69,34 @@
       saveConsent(choice);
       if (choice === 'accepted') loadAnalytics();
       banner.remove();
+      showManageControl();
     });
   }
 
   var consent;
   try { consent = window.localStorage.getItem(consentKey); } catch (error) { consent = null; }
-  if (consent === 'accepted') loadAnalytics();
+  if (consent === 'accepted') {
+    loadAnalytics();
+    if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', showManageControl);
+    else showManageControl();
+  }
   else if (!consent) {
     if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', showBanner);
     else showBanner();
   }
+
+  document.addEventListener('noriade:contact-success', function () {
+    trackEvent('generate_lead', { method: 'contact_form' });
+  });
+
+  document.addEventListener('click', function (event) {
+    var link = event.target.closest ? event.target.closest('a[href]') : null;
+    if (!link) return;
+    var href = link.getAttribute('href') || '';
+    if (/^mailto:/i.test(href)) trackEvent('contact_email');
+    else if (/^tel:/i.test(href)) trackEvent('contact_phone');
+    else if (/\/(?:commander|order)\//.test(href)) {
+      trackEvent('select_content', { content_type: 'order_link', item_id: href });
+    }
+  });
 }());
