@@ -100,8 +100,14 @@ describe('contact_me_static.js', () => {
     expect($('#name').val()).toBe('');
   });
 
-  test('uses the form action and preserves all named order fields when no endpoint is configured', async () => {
+});
+
+describe('contact_me_static.js without a configured endpoint', () => {
+  beforeEach(async () => {
     await setupScript({ scriptName: 'contact_me_static.js', contactEndpoint: '' });
+  });
+
+  test('uses the form action and preserves all named order fields', async () => {
     $('#contactForm').attr('action', 'https://formspree.io/f/order');
     $('#contactForm').append('<input name="firstname" value="Jane"><input name="postalcode" value="75001"><input name="_subject" value="New order">');
     $.ajax.mockImplementation(({ success }) => success());
