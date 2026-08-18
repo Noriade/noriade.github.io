@@ -5,10 +5,10 @@ let $;
 const setupScript = async ({ scriptName, contactEndpoint = 'https://formspree.io/f/demo' }) => {
   jest.resetModules();
   const dom = new JSDOM(`<!DOCTYPE html><html><body>
-    <form id="contactForm">
-      <input id="name" />
-      <input id="email" />
-      <textarea id="message"></textarea>
+    <form id="contactForm" action="https://formspree.io/f/contact">
+      <input id="name" name="name" />
+      <input id="email" name="_replyto" />
+      <textarea id="message" name="message"></textarea>
     </form>
     <div id="success"></div>
   </body></html>`);
@@ -90,13 +90,32 @@ describe('contact_me_static.js', () => {
     options.submitSuccess($('#contactForm'), event);
 
     expect($.ajax.mock.calls[0][0].url).toBe('https://formspree.io/f/demo');
-    expect($.ajax.mock.calls[0][0].data).toEqual({
-      name: 'Jane',
-      _replyto: 'jane@example.com',
-      _subject: 'Website contact form',
-      message: 'Hello'
-    });
+    expect($.ajax.mock.calls[0][0].data).toEqual([
+      { name: 'name', value: 'Jane' },
+      { name: '_replyto', value: 'jane@example.com' },
+      { name: 'message', value: 'Hello' },
+      { name: '_subject', value: 'Website contact form' }
+    ]);
     expect($('#success .alert-success').text()).toContain('Message sent ok.');
     expect($('#name').val()).toBe('');
+  });
+
+  test('uses the form action and preserves all named order fields when no endpoint is configured', async () => {
+    await setupScript({ scriptName: 'contact_me_static.js', contactEndpoint: '' });
+    $('#contactForm').attr('action', 'https://formspree.io/f/order');
+    $('#contactForm').append('<input name="firstname" value="Jane"><input name="postalcode" value="75001"><input name="_subject" value="New order">');
+    $.ajax.mockImplementation(({ success }) => success());
+    const event = { preventDefault: jest.fn() };
+    const options = $.fn.jqBootstrapValidation.mock.calls[0][0];
+
+    options.submitSuccess($('#contactForm'), event);
+
+    expect($.ajax.mock.calls[0][0].url).toBe('https://formspree.io/f/order');
+    expect($.ajax.mock.calls[0][0].data).toEqual(expect.arrayContaining([
+      { name: 'firstname', value: 'Jane' },
+      { name: 'postalcode', value: '75001' },
+      { name: '_subject', value: 'New order' }
+    ]));
+    expect($.ajax.mock.calls[0][0].data.filter(({ name }) => name === '_subject')).toHaveLength(1);
   });
 });

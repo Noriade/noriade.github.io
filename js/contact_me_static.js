@@ -12,15 +12,21 @@ $(function() {
         submitSuccess: function($form, event) {
             event.preventDefault();
 
+            var formData = $form.serializeArray();
+            var hasSubject = false;
+
+            $.each(formData, function(_, field) {
+                hasSubject = hasSubject || field.name === "_subject";
+            });
+
+            if (!hasSubject) {
+                formData.push({ name: "_subject", value: "Website contact form" });
+            }
+
             $.ajax({
-                url: contactEndpoint || "https://formspree.io/contact@noriade.com",
+                url: contactEndpoint || $form.attr("action") || "https://formspree.io/contact@noriade.com",
                 type: "POST",
-                data: {
-                    name: $("input#name").val(),
-                    _replyto: $("input#email").val(),
-                    _subject: "Website contact form",
-                    message: $("textarea#message").val()
-                },
+                data: formData,
                 cache: false,
                 success: function() {
                     $('#success').html("<div class='alert alert-success'>");
