@@ -40,6 +40,11 @@
 - `/blog/:year-:month-:day-:title/`
 
 ## Change Log
+- `2026-08-24`: corrected stale English internal links (`/en/hosting/mail/` ->
+  `/en/hosting/mails/` and `/en/services/consulting/` ->
+  `/en/services/audit-it-consulting/`). These were link fixes only; no public
+  URL was changed and no new redirect was required. Updated `sitemap.xml`
+  `lastmod` values for the cleaned public pages.
 - `2026-08-24`: retired `/partenaires/` and `/en/partners/` (no 301 —
   no valid replacement target). Zero remaining SEO/link-exchange value:
   the two "Référencement" directory links had been repurposed for spam
