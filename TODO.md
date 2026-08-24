@@ -2,12 +2,12 @@
 
 ## Next
 - Verify the local preview on `http://192.168.2.2:4000/` across FR and EN pages.
-- Click through contact flow in browser and confirm success/error handling with the configured static form endpoint.
+- Verify that the email-only contact links open the configured mail client on FR and EN pages.
 - Review social profiles still exposed publicly and remove any no longer maintained.
 
 ## Short Term
 - Clean old partner links that do not match the current company image.
-- Add a dedicated success page or inline confirmation state for contact submissions.
+- Remove obsolete contact-form references from the remaining project notes.
 - Keep `REDIRECTS.md` updated before any permalink change.
 
 ## Audit de cohérence — 2026-08-18
