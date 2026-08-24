@@ -10,6 +10,6 @@
 - Replace remaining legacy Bootstrap 3 patterns over time.
 
 ## Technical
-- Remove the unused legacy contact scripts once the order pages no longer need them.
+- Decide whether to archive/remove the legacy contact scripts after the new site migration; currently retained for compatibility/tests.
 - Document deployment workflow and hosting assumptions.
 - Add a real redirect mechanism if URLs ever need to change in production.
