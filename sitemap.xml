@@ -386,42 +386,7 @@
         <priority>0.3</priority>
       
     </url>
-    
-  
-    
-    <url>
-      <loc>https://noriade.com/partenaires/</loc>
-      
-        <lastmod>2017-11-14</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.2</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://noriade.com/en/partners/</loc>
-      
-        <lastmod>2017-11-14</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.2</priority>
-      
-    </url>
-    
-  
-    
-  
-    
-    <url>
+<url>
       <loc>https://noriade.com/services/</loc>
       
         <lastmod>2017-10-20</lastmod>

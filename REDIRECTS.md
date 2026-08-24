@@ -18,8 +18,6 @@
 - `/blog/`
 - `/en/blog/`
 - `/mentions-legales/`
-- `/partenaires/`
-- `/en/partners/`
 - `/en/terms-and-conditions/`
 
 ### Services
@@ -42,6 +40,15 @@
 - `/blog/:year-:month-:day-:title/`
 
 ## Change Log
+- `2026-08-24`: retired `/partenaires/` and `/en/partners/` (no 301 —
+  no valid replacement target). Zero remaining SEO/link-exchange value:
+  the two "Référencement" directory links had been repurposed for spam
+  (offshore hosting link farm, hijacked domain serving a default admin
+  template) and the six "Boutiques" links were unrelated e-commerce
+  (jewelry, phone cases, sneakers). Pages deleted, footer links removed
+  sitewide, entries removed from `sitemap.xml`. 404 accepted per policy
+  exception: Google treats 404 and 410 near-identically for
+  deindexing, and there is no legitimate content to redirect to.
 - `2026-03-14`: restored legacy blog posts from production into `_posts` for:
   - `/blog/2019-01-24-nouveau-site-lebonbon/`
   - `/en/blog/2019-01-24-new-website-lebonbon/`
