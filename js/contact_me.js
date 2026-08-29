@@ -28,18 +28,26 @@ $(function() {
                     email: email,
                     message: message
                 },
+                dataType: "json",
                 cache: false,
-                success: function() {
+                success: function(response) {
+                    if (response.status !== 'success') {
+                        $('#success').html("<div class='alert alert-danger'>");
+                        $('#success > .alert-danger').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
+                            .append("</button>");
+                        $('#success > .alert-danger').append("<strong>" + (response.message || errorMessage) + "</strong>");
+                        $('#success > .alert-danger').append('</div>');
+                        return;
+                    }
                     // Success message
                     $('#success').html("<div class='alert alert-success'>");
                     $('#success > .alert-success').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
                         .append("</button>");
                     $('#success > .alert-success')
-                        .append("<strong>" + successMessage + "</strong>");
+                        .append("<strong>" + (response.message || successMessage) + "</strong>");
                     $('#success > .alert-success')
                         .append('</div>');
 
-                    //clear all fields
                     $('#contactForm').trigger("reset");
                 },
                 error: function() {
