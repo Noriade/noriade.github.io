@@ -20,4 +20,4 @@ Le site propose des pages en français et en anglais. Les URLs anglaises utilise
 
 ## Contact et attribution
 
-Noriade SAS — 25 rue de Ponthieu, 75008 Paris, France — contact@noriade.com.
+Noriade — contact@noriade.com.

@@ -1,5 +1,5 @@
 /* TEAM */
-Noriade SAS
+Noriade
 Website: https://noriade.com/
 Contact: contact@noriade.com
 
