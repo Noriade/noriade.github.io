@@ -18,7 +18,7 @@ if (!$email) {
 }
 
 // Check for required fields
-$name = sanitize_input($_POST['name'] ?? '');
+$name = preg_replace('/[\r\n]+/', ' ', sanitize_input($_POST['name'] ?? ''));
 $message = sanitize_input($_POST['message'] ?? '');
 
 if (empty($name) || empty($message)) {
