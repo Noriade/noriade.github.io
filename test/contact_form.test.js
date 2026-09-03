@@ -46,7 +46,10 @@ describe('contact_me.js', () => {
   });
 
   test('shows success message and resets form on AJAX success', async () => {
-    $.ajax.mockImplementation(({ success }) => success());
+    $.ajax.mockImplementation(({ success }) => success({
+      status: 'success',
+      message: 'Message sent ok.'
+    }));
     const event = { preventDefault: jest.fn() };
     await new Promise((resolve) => setTimeout(resolve, 20));
     const options = $.fn.jqBootstrapValidation.mock.calls[0][0];
