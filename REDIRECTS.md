@@ -40,6 +40,7 @@
 - `/blog/:year-:month-:day-:title/`
 
 ## Change Log
+- `2026-09-04`: cleaned the current static publication: canonical/hreflang links now use the apex domain, homepage contact navigation points to the dedicated contact page, Google Fonts use HTTPS, the remaining visible French metadata typo was corrected, and obsolete legal identity was removed from `humans.txt` and `llms.txt`. `sitemap.xml` lastmod values were refreshed to the last sitewide publication date. No public URL was changed.
 - `2026-08-24`: corrected stale English internal links (`/en/hosting/mail/` ->
   `/en/hosting/mails/` and `/en/services/consulting/` ->
   `/en/services/audit-it-consulting/`). These were link fixes only; no public
