@@ -1,14 +1,14 @@
 # Development
 
-## Local Preview
-- Build: `bundle _2.4.19_ exec jekyll build`
-- Serve on localhost: `bundle _2.4.19_ exec jekyll serve --host 127.0.0.1 --port 4000`
-- Serve on LAN: `bundle _2.4.19_ exec jekyll serve --host 192.168.2.2 --port 4000`
+## Repository status
+- This checkout is the static export currently published by GitHub Pages.
+- The Astro rebuild is maintained separately in `Noriade/noriade-next`.
+- No Gemfile, Jekyll source tree, or local Jekyll build is present here.
 
 ## Tests
 - Contact form tests: `npm test -- --runInBand`
 
 ## Notes
 - The repository uses a small Jest suite only for JavaScript behavior checks.
-- The generated site is written to `_site/`.
-- `site.baseurl` must remain respected by templates and scripts.
+- Public HTML, assets, sitemap, robots and llms files are already in the checkout.
+- Preserve root-relative public URLs and update `REDIRECTS.md` before changing them.
