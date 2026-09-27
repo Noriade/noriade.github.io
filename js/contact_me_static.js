@@ -30,10 +30,11 @@ $(function() {
                 cache: false,
                 success: function() {
                     $('#success').html("<div class='alert alert-success'>");
-                    $('#success > .alert-success').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
-                        .append("</button>");
-                    $('#success > .alert-success').append("<strong>" + successMessage + "</strong>");
-                    $('#success > .alert-success').append('</div>');
+                    $('#success > .alert-success').append($('<button>', {
+                        type: 'button', class: 'close', 'data-dismiss': 'alert',
+                        'aria-hidden': 'true', text: '×'
+                    }));
+                    $('#success > .alert-success').append($('<strong>').text(successMessage));
                     $('#contactForm').trigger("reset");
                     if (typeof window !== "undefined" && typeof window.dispatchEvent === "function") {
                         var analyticsEvent = window.document.createEvent("Event");
@@ -43,10 +44,11 @@ $(function() {
                 },
                 error: function() {
                     $('#success').html("<div class='alert alert-danger'>");
-                    $('#success > .alert-danger').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
-                        .append("</button>");
-                    $('#success > .alert-danger').append("<strong>" + errorMessage + "</strong>");
-                    $('#success > .alert-danger').append('</div>');
+                    $('#success > .alert-danger').append($('<button>', {
+                        type: 'button', class: 'close', 'data-dismiss': 'alert',
+                        'aria-hidden': 'true', text: '×'
+                    }));
+                    $('#success > .alert-danger').append($('<strong>').text(errorMessage));
                     $('#contactForm').trigger("reset");
                 },
             });

@@ -78,6 +78,20 @@ describe('contact_me.js', () => {
     expect($('#email').val()).toBe('');
     expect($('#message').val()).toBe('');
   });
+
+  test('renders an API message as text instead of HTML', async () => {
+    $.ajax.mockImplementation(({ success }) => success({
+      status: 'error',
+      message: '<img src=x onerror=alert(1)>'
+    }));
+    const event = { preventDefault: jest.fn() };
+    const options = $.fn.jqBootstrapValidation.mock.calls[0][0];
+
+    options.submitSuccess($('#contactForm'), event);
+
+    expect($('#success img').length).toBe(0);
+    expect($('#success .alert-danger strong').text()).toBe('<img src=x onerror=alert(1)>');
+  });
 });
 
 describe('contact_me_static.js', () => {
