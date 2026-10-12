@@ -3,6 +3,8 @@
 
   var consentKey = 'noriade-analytics-consent';
   var measurementId = 'G-FXDTY1HHNQ';
+  var matomoBaseUrl = 'https://analytics.noriade.com/';
+  var matomoTrackerUrl = matomoBaseUrl + 'matomo.php';
   var isEnglish = window.location.pathname.indexOf('/en/') === 0 || window.location.pathname === '/en';
   var copy = isEnglish ? {
     message: 'We use Google Analytics to understand how this website is used. You can accept or refuse audience measurement.',
@@ -34,13 +36,17 @@
     if (window.__noriadeMatomoLoaded) return;
     window.__noriadeMatomoLoaded = true;
     window._paq = window._paq || [];
-    window._paq.push(['setTrackerUrl', 'https://analytics.noriade.com/matomo.php']);
+    window._paq.push(['requireConsent']);
+    window._paq.push(['disableCookies']);
+    window._paq.push(['setTrackerUrl', matomoTrackerUrl]);
     window._paq.push(['setSiteId', '5']);
-    window._paq.push(['trackPageView']);
     window._paq.push(['enableLinkTracking']);
+    window._paq.push(['setConsentGiven']);
+    window._paq.push(['trackPageView']);
+
     var script = document.createElement('script');
     script.async = true;
-    script.src = 'https://analytics.noriade.com/matomo.js';
+    script.src = matomoBaseUrl + 'matomo.js';
     document.head.appendChild(script);
   }
 
@@ -48,10 +54,10 @@
     if (window.__noriadeAnalyticsLoaded && typeof window.gtag === 'function') {
       window.gtag('event', name, parameters || {});
     }
+    if (window.__noriadeMatomoLoaded && window._paq) {
+      window._paq.push(['trackEvent', 'engagement', name, parameters && parameters.method]);
+    }
   }
-
-  // Matomo remains active independently of the Google Analytics consent choice.
-  loadMatomo();
 
   function saveConsent(value) {
     try { window.localStorage.setItem(consentKey, value); } catch (error) { /* private browsing */ }
@@ -87,6 +93,8 @@
       if (choice === 'accepted') {
         loadAnalytics();
         loadMatomo();
+      } else if (window.__noriadeMatomoLoaded && window._paq) {
+        window._paq.push(['forgetConsentGiven']);
       }
       banner.remove();
       showManageControl();
