@@ -50,6 +50,9 @@
     }
   }
 
+  // Matomo remains active independently of the Google Analytics consent choice.
+  loadMatomo();
+
   function saveConsent(value) {
     try { window.localStorage.setItem(consentKey, value); } catch (error) { /* private browsing */ }
   }
