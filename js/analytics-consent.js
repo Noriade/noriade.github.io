@@ -30,6 +30,20 @@
     document.head.appendChild(script);
   }
 
+  function loadMatomo() {
+    if (window.__noriadeMatomoLoaded) return;
+    window.__noriadeMatomoLoaded = true;
+    window._paq = window._paq || [];
+    window._paq.push(['setTrackerUrl', 'https://analytics.noriade.com/matomo.php']);
+    window._paq.push(['setSiteId', '5']);
+    window._paq.push(['trackPageView']);
+    window._paq.push(['enableLinkTracking']);
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://analytics.noriade.com/matomo.js';
+    document.head.appendChild(script);
+  }
+
   function trackEvent(name, parameters) {
     if (window.__noriadeAnalyticsLoaded && typeof window.gtag === 'function') {
       window.gtag('event', name, parameters || {});
@@ -67,7 +81,10 @@
       var choice = event.target.getAttribute('data-consent');
       if (!choice) return;
       saveConsent(choice);
-      if (choice === 'accepted') loadAnalytics();
+      if (choice === 'accepted') {
+        loadAnalytics();
+        loadMatomo();
+      }
       banner.remove();
       showManageControl();
     });
@@ -77,6 +94,7 @@
   try { consent = window.localStorage.getItem(consentKey); } catch (error) { consent = null; }
   if (consent === 'accepted') {
     loadAnalytics();
+    loadMatomo();
     if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', showManageControl);
     else showManageControl();
   }
